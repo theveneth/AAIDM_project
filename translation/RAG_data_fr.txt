@@ -1,0 +1,399 @@
+La déclaration automatique
+
+Depuis plus de 10 ans, l'administration fiscale préremplit votre déclaration de revenus des informations dont elle a connaissance (charges de famille, montant des salaires, retraites, indemnités, allocations chômage…).
+
+Désormais, la déclaration automatique est mise en place pour vous simplifier la vie en vous permettant, si possible, de ne plus déposer votre déclaration, dès lors que l'administration dispose de toutes les informations nécessaires à la taxation de vos revenus.
+Comment savoir si je bénéficie de la déclaration automatique ?
+
+La déclaration automatique est proposée aux foyers fiscaux qui ont été imposés, l'an dernier, uniquement sur des revenus préremplis par l'administration.
+
+    si vous avez déclaré en ligne l'année dernière : vous recevrez un courriel d'information sur ce nouveau dispositif vous signalant que le récapitulatif des informations connues de l'administration est disponible, pour vérification, dans votre espace particulier ;
+
+    si vous avez déposé une déclaration papier en 2023 : vous recevrez par courrier votre nouvelle déclaration de revenus sous un format adapté, accompagnée de documents vous présentant ce nouveau mode de déclaration.
+
+Bon à savoir :
+
+Les usagers qui étaient éligibles à la déclaration automatique en 2023 mais qui ne le sont plus en 2024 seront informés mi-avril par courriel qu’ils doivent déposer cette année une déclaration de revenus.
+Comment ça marche exactement ?
+
+Si vous êtes éligible, vous devez bien vérifier les informations que l’administration porte à votre connaissance :
+
+    si toutes les informations sont correctes et complètes, vous n'avez rien d'autre à faire. Votre déclaration de revenus sera automatiquement validée ;
+
+    si certains éléments doivent être complétés ou modifiés (adresse, situation de famille, montant des revenus et charges, dépenses éligibles à réduction / crédit d'impôt, option pour choisir l’imposition au barème des revenus de capitaux mobiliers…), vous devrez alors remplir et signer votre déclaration de revenus comme habituellement.
+
+Important :
+
+Si vous avez changé d’adresse en 2023, pensez à bien remplacer l’ancienne par la nouvelle, afin d’éviter des erreurs d’imposition.
+Je suis éligible à la déclaration automatique. Mais comment puis-je être sûr de ne pas être considéré comme défaillant si je ne dépose rien ?
+
+Vous avez été informé par la DGFiP (par mail ou courrier accompagnant votre déclaration) que vous êtes concerné par la déclaration automatique.
+
+Si, après vérification, vous considérez que les informations connues de l'administration sont correctes et exhaustives alors vous n'avez rien à faire : elles seront automatiquement validées sans action particulière de votre part ! Et vous ne serez bien entendu pas considéré comme défaillant.
+
+Si, au contraire, certaines de vos informations ont changé (adresse, situation de famille, montant des revenus et charges, dépenses éligibles à réduction / crédit d'impôt, option pour choisir l’imposition au barème des revenus de capitaux mobiliers…), vous devrez alors remplir et signer votre déclaration de revenus comme habituellement. Cependant, les naissances qui ont été déclarées au préalable dans votre espace « Gérer mon prélèvement à la source » seront intégrées dans votre déclaration automatique.
+Je suis éligible à la déclaration automatique et je souhaite modifier des salaires erronés / incomplets ou mentionner des RI-CI
+
+Vous êtes éligible à la déclaration automatique et après vérification des informations préremplies vous souhaitez y apporter une modification.
+
+Pour cela, si vous souhaitez modifier ou compléter les informations présentées, vous pouvez déclarer en ligne et compléter ou corriger les informations préremplies, ou utiliser votre déclaration de revenus en format papier, selon les modalités habituelles.
+Le dispositif de la déclaration automatique ne vaut-il que pour la déclaration en ligne ? Vaut-il également pour la déclaration papier ?
+
+La déclaration automatique concerne la déclaration en ligne et la déclaration papier.
+
+Si vous êtes éligibles à la déclaration automatique, vous avez été informé par la DGFiP (par mail ou courrier accompagnant votre déclaration).
+Si après vérification vous considérez que les informations connues de l’administration sont correctes et exhaustives, elles seront automatiquement validées sans action particulière de votre part et serviront à calculer le solde éventuel de votre impôt.
+
+Dans le cas contraire, une déclaration (en ligne ou papier) doit être déposée selon les modalités habituelles.
+
+Comment déclarer vos revenus
+
+Si vous n'êtes pas éligible à la déclaration automatique cette année, ou si vous êtes éligible et que vous devez corriger ou compléter les informations présentées par l'administration, vous devez déposer une déclaration : faites-la en ligne !
+
+Cette déclaration a été adaptée à la mise en œuvre du prélèvement à la source et vous pouvez désormais y retrouver le détail de tous vos prélèvements et les vérifier.
+
+Tutoriel vidéo "La déclaration de revenus"
+Vérifiez vos informations préremplies
+
+Déclaration automatique ou déclaration classique, il est nécessaire que vous vous assuriez que les informations préremplies par l'administration (revenus imposables et prélèvements à la source) sont justes.
+
+Pour cela, aidez-vous du récapitulatif annuel qui peut figurer sur votre bulletin de salaire ou relevé de pension du mois de décembre 2023 ou sur un document spécifique mis à disposition par vos verseurs de revenus.
+En l'absence de récapitulatif annuel, nous vous invitons à faire le total de vos revenus imposables et prélèvements à la source à partir de vos bulletins de l'année.
+
+Vous pouvez également retrouver les informations sur vos prélèvements à la source dans votre espace particulier sous "Gérer mon prélèvement à la source".
+Important :
+
+En cas de déménagement, vérifiez votre adresse au 1er janvier sur votre déclaration de revenus pour éviter les erreurs d’imposition.
+La déclaration en mode prélèvement à la source
+
+Vous retrouverez sur votre déclaration de revenus le détail de toutes les retenues à la source réalisées en 2023 pour pouvoir les vérifier et, dans les cas où ces informations ne sont pas exactes, les modifier :
+
+    ajout d'une ligne de montants « revenus / retenue à la source » lorsque vous ne retrouvez pas les informations de revenus et de retenue à la source d'un verseur de revenus ;
+
+    modification d'un montant : cela vous permet de rectifier le montant de revenu et / ou de retenue à la source présenté par l'administration ;
+
+    suppression d'une ligne de montants « revenus / retenue à la source » si vous contestez qu'un collecteur vous a versé des revenus imposables (et prélevé une retenue à la source).
+
+J'ai un solde à payer : pourquoi et quand ?
+
+La déclaration de revenus que vous réalisez en 2024 permet de faire le bilan de votre situation fiscale de 2023. Vos éléments déclarés permettent le calcul de votre impôt et, une fois déduits les montants que vous avez déjà payés avec le prélèvement à la source en 2023, 3 cas de figure peuvent se présenter :
+
+    vous bénéficiez d'un remboursement, si par exemple vous avez été trop prélevé en 2023 par rapport au montant de votre impôt ;
+
+    vous n'avez rien à payer ;
+
+    vous avez un reste à payer, si par exemple vous n'avez pas payé assez en 2023, vous avez bénéficié d'une avance de réduction ou crédit d'impôt trop importante en janvier 2024 ou si vous n'avez pas modifié votre taux de prélèvement à la source en 2023 suite à une hausse de revenus.
+
+Si vous bénéficiez d'un remboursement, celui-ci vous sera directement remboursé sur le compte bancaire connu de la DGFiP, si vous en avez communiqué un, sinon par courrier avec un chèque à encaisser directement auprès de votre banque.
+
+Si vous avez un montant d’impôt à payer, celui-ci sera prélevé sur le compte bancaire que vous avez communiqué à la DGFiP (consultable / modifiable dans votre espace particulier à la rubrique « Gérer mon prélèvement à la source ») :
+
+    en un seul prélèvement le 27 septembre 2024 si le montant est inférieur à 300€ ;
+    en quatre prélèvements mensuels (de septembre à décembre) si le montant est supérieur à 300€.
+
+Cette déclaration de revenus permettra également de mettre à jour votre taux de prélèvement à la source pour septembre 2024.
+Le calendrier
+
+Le service de déclaration en ligne sera ouvert jusqu’aux dates limites suivantes établies par département :
+
+jeudi
+23 MAI
+au plus tard (23h59)
+
+pour les départements
+n° 01 à 19
+et les non-résidents
+
+jeudi
+30 MAI
+au plus tard (23h59)
+
+
+pour les départements
+n° 20 à 54
+
+jeudi
+6 JUIN
+au plus tard (23h59)
+
+
+pour les départements
+n° 55 à 976
+
+La déclaration papier doit, quant à elle, être déposée au plus tard le mardi 21 mai 2024 à minuit, y compris pour les résidents français à l'étranger.
+Comment faire pour déclarer en ligne ?
+
+Déclarer en ligne, c'est le moyen le plus simple, souple, rapide et sûr de déclarer ses revenus. Il vous suffit de vous connecter à votre espace particulier et de vous laisser guider.
+
+Si votre résidence principale est équipée d’un accès à internet, votre déclaration de revenus doit être réalisée par internet. Toutefois, si vous estimez ne pas être en mesure de le faire, vous pouvez continuer à utiliser une déclaration papier.
+
+Pour vous connecter à votre espace particulier, vous devez vous munir de votre n° fiscal et de votre mot de passe.
+
+Avec FranceConnect, vous pouvez également vous connecter en utilisant indifféremment une des « identités numériques » partenaires : impots.gouv.fr, La Poste ou MobileConnect et moi.
+Vous n'avez pas encore créé votre espace ?
+
+Vous allez voir, c'est facile. Pour cela, il vous faut seulement rassembler 3 éléments :
+
+Il ne vous reste ensuite plus qu'à créer votre espace personnel et à choisir un mot de passe :
+
+Créer mon espace
+Déclarer en ligne, c'est aussi le droit à l'erreur
+
+Après avoir signé votre déclaration en ligne, vous pouvez encore la modifier si vous le souhaitez, jusqu'à la date limite de déclaration.
+Après réception de votre avis d'impôt vous pourrez encore utiliser « Corriger ma déclaration en ligne » dans votre espace particulier, dès l'ouverture du service et jusqu'à mi-décembre.
+Et si je déclare pour la toute première fois ?
+
+Si vous avez 20 ans ou plus et que vous étiez rattaché au foyer fiscal de vos parents l'année dernière, vous avez dû recevoir un courrier spécifique vous indiquant vos 3 identifiants pour créer votre propre espace particulier sur impots.gouv.fr et déclarer en ligne.
+
+Si vous ne le retrouvez plus, contactez votre centre des Finances publiques. Vous pourrez alors déclarer vos revenus par internet, smartphone ou tablette.
+
+Si vous ne possédez pas de numéro d'accès en ligne, ni de revenu fiscal de référence, vous ne pouvez pas déclarer en ligne cette année. Vous devrez donc transmettre à votre service des impôts une déclaration papier (millésime 2024), prochainement téléchargeable depuis le moteur de recherche du site impots.gouv.fr.
+Vous êtes arrivé(e) récemment sur le territoire et n'avez pas encore de numéro fiscal ?
+
+Vous pouvez faire une demande via notre page Contact > Particulier > L'accès à votre espace particulier > Je n'ai pas de numéro fiscal.
+Vous avez perçu une allocation de votre employeur et/ou engagé des frais au titre du télétravail à domicile en 2023 ?
+
+Découvrez les différentes modalités pour les déclarer
+Vous avez un véhicule et souhaitez déduire vos frais kilométriques ?
+
+Les dépenses relatives à vos frais kilométriques sont prises en compte lorsque vous optez pour la déduction des frais réels. Cette option est plus intéressante pour le calcul de votre impôt lorsque les frais réels que vous déduisez sont supérieurs à la déduction forfaitaire de 10 %.
+
+Pour savoir si vous avez intérêt à déduire vos frais réels cette année lors de la déclaration de vos revenus 2023, vous pouvez utiliser le simulateur dédié au calcul des frais kilométriques.
+Le montant estimatif de vos frais kilométriques ainsi obtenu est à ajouter à celui de vos autres frais réels.
+
+Accéder au simulateur
+Pourquoi dois-je continuer à déclarer malgré la mise en place du prélèvement à la source ?
+
+Vous devez continuer à faire votre déclaration chaque année car l’administration fiscale ne dispose pas toujours de tous vos éléments actualisés (les revenus fonciers par exemple, ou les pensions alimentaires). Cette déclaration permet donc de régulariser votre situation de l’année précédente en prenant en compte tous vos revenus mais aussi vos charges (dons, dépenses éligibles aux crédits d’impôt,...).
+
+Dans la majorité des cas, si vos revenus n’ont pas changé ou si vous avez actualisé votre situation au fil de l’eau sur votre espace Particulier, cela ne change rien, vous n’aurez sans doute plus rien à payer. En revanche, si vous avez connu une augmentation de revenus mais ne l’avez pas signalé, vous aurez sûrement un reste à payer.
+
+Dans certains cas, votre déclaration de revenus pourra aussi vous permettre de bénéficier d’un remboursement (si vous êtes éligible à un crédit d’impôt par exemple). Cette déclaration de revenus permettra également de mettre à jour votre taux de prélèvement à la source pour septembre, afin qu’il soit le plus adapté possible à votre situation.
+À quelle date le taux de prélèvement sera pris en compte ? Puis-je dès à présent moduler  ?
+
+Le délai de prise en compte de votre nouveau taux de prélèvement à la source est de 1 à 2 mois.
+
+Suite à votre déclaration de revenus, un nouveau taux sera calculé et sera appliqué dès le mois de septembre.Il prend en compte les éléments que vous avez déclarés. Ce taux vous est indiqué une fois votre déclaration en ligne signée (ou mentionné sur votre déclaration automatique si vous ne corrigez rien).
+
+Si vous estimez que ce taux n’est pas adapté à votre situation actuelle, vous pouvez l’adapter. Cliquez sur « Oui, je souhaite adapter mon prélèvement à la source » à la fin de votre déclaration de revenus.
+Si j'ai coché la case « recevoir ma déclaration », vais-je recevoir ma déclaration papier ?
+
+Si vous avez déclaré sur papier en 2023 ou en 2022, votre déclaration papier vous sera envoyée entre le 13 avril et la fin avril 2024, si vous n'avez pas coché l'option « zéro papier » sur votre espace en ligne.
+
+Rappel : si votre résidence principale est équipée d’un accès à internet, votre déclaration de revenus doit être réalisée en ligne. Toutefois, si vous estimez ne pas être en mesure de le faire, vous pouvez continuer à utiliser une déclaration papier.
+La case 3916 « Détention d'un compte à l'étranger » est pré-cochée sur ma déclaration. Pourtant, je n'ai pas de compte à l'étranger, que faire ?
+
+La case 3916 « Détention d'un compte à l'étranger » peut être déjà cochée quand vous recevez votre déclaration.
+
+Si vous n'avez pas de compte à l'étranger, cette case peut être tout de même cochée, si, par exemple vous détenez un compte Paypal (domicilié au Luxembourg) adossé à votre carte bancaire permettant de régler des achats en ligne.
+
+Si la case 3916 est pré-cochée alors que vous n'avez pas de compte à l'étranger ni contrat d'assurance-vie, et que les sommes encaissées via votre compte Paypal ne dépassent pas 10 000 € par an, vous pouvez décocher cette case. Pour ce faire :
+
+    Dès le début de votre déclaration en ligne : sur l'écran de sélection des revenus, cliquez sur « Déclarations annexes », puis décochez la case correspondant à la déclaration n° 3916 « Déclaration par un résident d'un compte ouvert hors de France ». Validez.
+    Si vous vous apercevez de ce pré-cochage en fin de déclaration, vous ne pourrez pas valider votre déclaration. Plutôt que de revenir au début de votre déclaration, cliquez sur le lien « Sélection des rubriques de la déclaration de revenus et annexes », dans le menu à gauche de votre écran. Cliquez ensuite sur « Déclarations annexes ».
+
+Cela vous permettra de décocher l’imprimé n° 3916.
+Ma Maison de services au public, ou mon France Service, peut-elle demander des informations au centre des Finances publiques à ma place ?
+
+Les agents des MSAP et France Services sont formés aux questions générales que vous pourriez leur poser. Ils peuvent également vous assister dans vos démarches en ligne, vous orienter vers le service compétent.
+
+En revanche, le centre des Finances publiques ne délivrera pas d'informations personnelles directement à l'agent de France Service. L'agent peut vous aider à formuler votre demande via la messagerie sécurisée de votre espace particulier sur impots.gouv.fr, ou à prendre un rendez-vous avec le centre des Finances publiques chargé de votre dossier.
+Quelle échéance pour rectifier ma déclaration ?
+Si vous déclarez en ligne :
+
+Pendant la période déclarative jusqu'à la date limite de votre département (voir calendrier de la déclaration en ligne) : vous pouvez effectuer autant de déclarations rectificatives que vous le souhaitez. Pour cela, retournez sur votre espace particulier puis cliquez sur "Accéder à la déclaration en ligne" puis "Corriger ".
+
+Si vous êtes concerné par la déclaration automatique, vous pourrez corriger votre déclaration en ligne, dans l'éventualité où vous auriez oublié de modifier ou de compléter votre déclaration, pendant toute la période déclarative.
+
+Une fois votre avis reçu ou disponible en ligne, si vous vous apercevez d’une erreur : vous pourrez de nouveau modifier ou corriger les éléments déclarés grâce au service de correction en ligne. Pour la déclaration des revenus 2023, le service sera disponible mi-août 2024 jusque mi-décembre 2024. Après cette date, vous ne pourrez plus modifier votre déclaration à partir du service de correction en ligne.
+Si vous déclarez papier :
+
+Pendant la période déclarative : vous pouvez modifier votre déclaration de revenus, en adressant, jusqu'à la date limite de dépôt, une déclaration rectificative reprenant l'intégralité des rubriques vous concernant, auprès du service des impôts des particuliers dont vous dépendez.
+
+Une fois votre avis reçu : vous pourrez effectuer une réclamation, que vous pourrez présenter jusqu’au 31 décembre de la deuxième année suivant le dépôt de votre déclaration, soit en ligne depuis votre espace Particulier via la messagerie sécurisée, soit par courrier à votre centre des Finances publiques.
+
+Pour plus d'informations, consultez la rubrique Particulier > Prévenir et résoudre mes difficultés ; corriger mes erreurs > Je veux contester un impôt : je fais une réclamation.
+
+
+Comment nous contacter si vous avez des difficultés avec internet ?
+Si vous avez des difficultés à vous connecter sur internet, vous pouvez obtenir de l’aide pour remplir votre déclaration de revenus.
+Par téléphone :
+
+Un agent de la DGFiP vous répond du lundi au vendredi, de 8H30 à 19H et vous accompagne dans la réalisation en ligne de vos démarches les plus courantes au 0 809 401 401 (appel non surtaxé)
+
+Il est également possible de prendre un rendez-vous téléphonique avec nos services, afin d’éviter de vous déplacer (rubrique « contact » sur impots.gouv.fr ⇒ « Prendre un Rendez-Vous »)
+
+Enfin, vous pouvez contacter votre Service des impôts des particuliers (coordonnées dans la rubrique « contact » sur impots.gouv.fr) notamment pour les questions relatives au calcul de vos impôts.
+Dans nos nombreux guichets :
+
+La DGFiP continue sa transformation et met en place un nouveau réseau de proximité (NRP) qui vise à renforcer sa présence dans les territoires.
+
+Ce nouveau réseau de proximité concerne avant tout les services dans les départements (impôts aux particuliers et aux entreprises, gestion et comptabilité des collectivités locales, publicité foncière…) et vise à renforcer sa présence et la proximité pour les particuliers, en augmentant de plus de 40 % sa présence dans les communes.
+
+Ainsi réorganisée, la DGFIP sera encore plus accessible, partout et au plus grand nombre.
+France Services :
+
+Vous pouvez également retrouver les agents DGFIP dans les espaces France Services mais aussi par l’organisation de rendez-vous ou de permanences en mairie, ou par visioconférence.
+
+Les agents, dotés de tous les outils nécessaires, pourront répondre à toutes les questions des usagers en ayant accès à leur dossier.
+
+Les France Services proposent aussi l’accompagnement des personnes éloignées du numérique. Un animateur guide l’usager dans ses démarches en ligne, suivant son niveau d’autonomie.
+
+Au 1er Janvier dernier, on comptait plus de 2 700 France Services labellisés sur tout le territoire.
+
+
+Pourquoi n'ai-je pas reçu de déclaration papier par courrier ?
+
+Si vous avez opté pour la dématérialisation ou que vous êtes une personne majeure rattachée (PMR) ayant souscrit une déclaration de revenus en 2023 en votre nom propre, vous ne recevrez pas de déclaration papier en 2024.
+
+Cette évolution, qui s’inscrit dans le cadre de la généralisation de la déclaration de revenus en ligne (sauf cas particuliers prévus par la loi et notamment en l’absence de connexion internet), est aussi la traduction d’une démarche écoresponsable de l’administration fiscale.
+
+250 tonnes de papier et d'emballages plastiques seront ainsi économisés chaque année en évitant d'imprimer et d'envoyer plus de 10 millions de déclarations
+Bon à savoir
+Si vous vous trouvez dans des situations nécessitant tout de même l’impression d’une déclaration papier (notamment si un proche ou un tiers déclarait pour vous ou si vous faites face à une impossibilité temporaire de réaliser des démarches en ligne) ou que vous avez absolument besoin de vous voir délivrer une déclaration papier, vous pourrez obtenir, auprès de votre centre des Finances publiques, une restitution de votre déclaration préremplie ainsi que, le cas échéant, les documents nécessaires à un dépôt papier.
+
+
+
+Mon avis d’impôt sur le revenu
+Quel document m'informera du montant d'impôt que je vais verser ou qui me sera restitué ? À quelle date ?
+En cas de déclaration en ligne :
+
+Déclarer vos revenus en ligne vous permet de disposer immédiatement d’un « Avis de situation déclarative à l’impôt sur le revenu » (ASDIR) vous indiquant l’éventuel montant d’impôt restant à payer ou le montant qui vous sera remboursé le cas échéant. Attention, ce document ne constitue pas un avis d'impôt.
+
+Vous recevrez votre avis d'impôt durant l'été (en ligne ou en papier).
+
+D'ici-là, si des organismes vous demandent votre dernier avis d'impôt, c'est celui de l'an dernier basé sur les revenus de 2022 qu'il convient de fournir.
+
+Si votre foyer fiscal a un montant à payer, votre avis fera apparaître le calcul de cet impôt restant dû sur vos revenus de 2023, après imputation des montants de PAS (prélèvement à la source) prélevés en 2023, et de vos réductions et crédits d'impôt, le cas échéant. Ce montant sera prélevé à compter de septembre 2024. La date du (ou des) prélèvement(s) sera précisé sur votre avis d'impôt.
+
+Si votre imposition donne lieu à un remboursement, celui-ci interviendra au cours de l'été 2024, directement sur le compte bancaire que vous nous avez communiqué.
+En cas de déclaration papier :
+
+Vous recevrez à votre domicile, au plus tard début septembre 2024, un avis d’impôt récapitulant le montant qui vous reste à payer au titre de l’impôt sur le revenu et des prélèvements sociaux, ou le montant qui vous sera remboursé le cas échéant.
+
+Ce montant est calculé par l'administration fiscale à partir des éléments figurant sur la déclaration de revenus 2023 que vous avez souscrite au printemps 2024.
+De quelles voies de recours je dispose à la sortie des avis d’impôt ?
+
+Si vous constatez une erreur ou si vous voulez contester le bien-fondé de votre impôt (sur le revenu, prélèvements sociaux ou impôts locaux...), vous pouvez formuler une réclamation directement en ligne depuis votre espace Particulier sur impots.gouv.fr via votre messagerie sécurisée, et en suivre le traitement.
+
+Déposer une réclamation auprès de l'administration fiscale ne vous dispense pas de payer l'impôt correspondant, cependant vous pouvez demander un sursis de paiement.
+Je n'ai pas déposé de déclaration de revenus, aurai-je mon avis ?
+
+Toute personne imposable à l'impôt sur les revenus, quelle que soit sa nationalité, doit produire une déclaration chaque année et la renouveler même si ses revenus n'ont pas subi de modifications par rapport à l'année précédente. Un avis d'impôt sur les revenus est mis à la disposition de tous les contribuables qui souscrivent une déclaration, qu'ils aient un montant d'impôt à payer ou pas..
+
+La mise en œuvre de la déclaration automatique pour certains usagers ne remet pas en cause la responsabilité de l’usager, l'absence de dépôt valant validation des éléments contenus dans la déclaration automatique.
+
+Si vous êtes éligible à la déclaration automatique, vous devez vérifier que toutes les informations portées à votre connaissance par l'Administration fiscale sont correctes. Si elles le sont, vous n’avez rien à faire.
+
+Et si vous n'êtes pas éligible à la déclaration automatique, la déclaration doit être réalisée selon les modalités habituelles.
+
+Ainsi, si vous ne déposez pas votre déclaration dans les délais vous n’obtiendrez pas d’avis d'impôt, et vous devrez régulariser votre situation auprès de l'administration.
+Pourquoi puis-je avoir une somme restant à payer ou un remboursement alors que je suis prélevé tous les mois ?
+
+Du fait de la mise en place du prélèvement à la source, vous payez vos impôts au fur et à mesure de la perception de vos revenus, sous forme de prélèvement par votre verseur de revenus (employeur, caisse de retraite…) ou au moyen d'acomptes prélevés par l'administration fiscale sur votre compte bancaire (si vous percevez des revenus fonciers, par exemple).
+
+Au printemps 2024, vous avez déclaré vos revenus de l'année précédente afin que l'administration fiscale calcule votre impôt sur les revenus 2023.
+Cet impôt a ensuite été comparé au montant de vos prélèvements à la source réalisés tout au long de l'année 2023.
+
+Votre avis d'impôt 2024 vous indique donc si le calcul de votre impôt sur les revenus 2023 :
+
+    vous donne droit à un remboursement (votre prélèvement à la source était trop élevé en 2023 ou vous avez bénéficié de réductions et crédits d'impôt),
+
+    ou aboutit à un reste à payer (le montant prélevé en 2023 au titre du prélèvement à la source n'a pas été suffisant ou vous avez bénéficié début 2024 d'une avance trop importante de réductions et crédits d'impôt).
+
+Pour les déclarants en ligne, vous disposez de cette information dès la fin de votre déclaration.
+
+La déclaration permet en effet de savoir si vous êtes redevable d'une somme restant à payer au titre de votre impôt sur le revenu au regard de l'impôt à la source dont vous vous êtes acquitté l'année passée. En outre, elle permet, si besoin, d'ajuster votre taux de prélèvement à la source. Enfin, elle permet de prendre en compte des réductions ou crédits d’impôt auxquels vous pouvez prétendre.
+Aurai-je la possibilité d'étaler la somme restant à payer au titre de mes revenus 2023 ?
+
+Si la somme restant à payer est supérieure à 300 €, elle sera prélevée automatiquement en 4 fois de septembre à décembre 2024. Si cette somme est inférieure à 300 €, elle fera l'objet d'un prélèvement unique en septembre.
+
+Si vous n'avez pas encore communiqué vos coordonnées bancaires, pensez à le faire dès maintenant et au plus tard avant la fin du mois d'août.
+Si vous rencontrez des difficultés financières :
+
+Dans certains cas (licenciement, décès du conjoint, longue maladie…) entraînant une dégradation de votre situation financière, l’administration fiscale peut exceptionnellement et après étude de votre dossier, vous accorder un délai de paiement sur la somme restant à payer.
+
+Dans ce cas, vous devez, avant la date de limite de paiement précisée sur votre avis adressez un courrier explicitant votre situation, justificatifs à l’appui, à votre centre des Finances publiques, accompagné d’un acompte en guise de bonne foi.
+
+
+
+Indépendants : la déclaration sociale et fiscale unique
+
+Vous déclarez des bénéfices industriels ou commerciaux (BIC), des bénéfices non commerciaux (BNC), des bénéfices agricoles (BA) ou autres revenus d'activités indépendantes ?
+
+Désormais, les revenus que vous déclarez sur impots.gouv.fr sont aussi pris en compte pour le calcul de vos cotisations et contributions sociales.
+
+Vous n’avez plus besoin de déposer une déclaration sociale des indépendants (DSI) sur le site net-entreprises.fr.
+Cette déclaration sociale et fiscale de revenus unifiée constitue une simplification majeure pour les travailleurs indépendants. Elle est une traduction concrète de la démarche « dites-le nous une fois » qui vise à limiter les démarches administratives et à faciliter la vie des assurés et des entreprises. En 2023, la déclaration unifiée a été élargie aux praticiens et auxiliaires médicaux conventionnés (PAM-C) et aux agriculteurs, permettant à 2,3 millions d’usagers de déclarer en une seule fois les revenus nécessaires au calcul de leurs cotisations sociales et de leur impôt sur les revenus.
+
+Il vous suffit de réaliser votre déclaration fiscale habituelle sur impots.gouv.fr  et vous accéderez à votre déclaration de revenus qui sera complétée  d'un volet « social » spécifique 1
+
+À l’issue de la déclaration, les éléments nécessaires au calcul des cotisations et contributions sociales personnelles seront transmis automatiquement par l’administration fiscale à l’Urssaf ou à la Cgss qui pourra ainsi, comme aujourd’hui, procéder au réajustement des échéanciers de cotisations provisionnelles et à la régularisation sur la cotisation définitive.
+
+Cette déclaration est obligatoire, par voie dématérialisée, que vous soyez imposable ou non.
+Qui est concerné ?
+
+Les travailleurs indépendants exerçant une activité artisanale, industrielle, commerciale ou libérale et affiliés au régime général des travailleurs indépendants.
+
+ 
+
+Nouveau :
+En 2024, il est désormais possible de corriger en ligne les données sociales de votre déclaration en cas d’erreur ou d’oubli. Auparavant, il était nécessaire de déposer une déclaration rectificative au format papier auprès de votre caisse de cotisation sociale.
+
+Les auto-entrepreneurs ne sont pas concernés par la déclaration fiscale et sociale de revenus unifiée. Ils conservent, pour le calcul de leurs cotisations et contributions sociales, leur obligation de déclaration spécifique à leur Urssaf ou Cgss de leur chiffre d’affaires ou de leurs recettes, mensuelle ou trimestrielle.
+
+Fin mars, un courriel a été adressé par la DGFiP pour informer les usagers concernés de leurs nouvelles modalités déclaratives et de la date d'ouverture du service en ligne.
+
+ 
+Pour en savoir plus
+
+Nous vous invitons à consulter la rubrique Particulier > Déclarer mes revenus > Je suis travailleur indépendant, je dépose une seule déclaration fiscale et sociale de revenus.
+1 - Si la rubrique « Déclaration de revenus des indépendants » n’est pas automatiquement sélectionnée, vous pouvez alors cocher la case et voir ainsi apparaître la partie « sociale ».
+
+
+
+
+Revenus de plateformes collaboratives
+
+Covoiturage, location temporaire de logements, vente de biens, de vêtements... N'oubliez pas de vérifier si vous devez les déclarer ! Ces opérations, y compris occasionnelles, sont susceptibles d'être imposées et sont soumises à des obligations déclaratives. Chaque année, les plateformes de l’économie collaborative transmettent à l’administration fiscale les informations relatives aux revenus perçus par leurs utilisateurs.
+Quelles nouvelles obligations pour ces plateformes ?
+
+La loi de finances pour 2022 a transposé en droit interne français une directive européenne qui impose certaines obligations aux opérateurs de plateforme ou d’application de mise en relation pour la réalisation d’opérations de vente d'un bien, de fourniture d'un service par des personnes physiques, de location d'un mode de transport ou de location d'un bien immobilier de toute nature.
+
+Ces obligations, qui s’appliquent aux opérations réalisées à compter du 1er janvier 2023, consistent, principalement, à adresser :
+
+    à chacun de leurs utilisateurs (vendeur ou prestataire de service) ayant perçu des sommes à l'occasion de transactions réalisées par leur intermédiaire et dont elles ont connaissance, un document d'information mentionnant notamment le nombre d'opérations réalisées l'année précédente, le montant net perçu au titre de ces opérations, ainsi que le montant des frais et taxes prélevés par la plateforme ;
+
+    à leur administration fiscale, ces mêmes informations.
+
+Ces nouvelles dispositions remplacent un précédent dispositif mis en place en France entre 2020 et 2023 ayant les mêmes finalités. Les opérateurs de plateforme déclarent dorénavant les informations requises auprès de l’administration fiscale de l’État où ils sont établis, les États en question s’échangeant ensuite les informations en fonction du lieu de résidence des vendeurs ou prestataires qui réalisent des opérations.
+Concrètement, comment ça se passe pour moi ?
+
+Si vous avez perçu, par le biais de ces plateformes, des revenus en 2023, vous devez vérifier si ces derniers sont imposables. Dans ce cas, vous devez les déclarer.
+
+Pour savoir si ces revenus sont imposables et dans quelle catégorie de revenus, munissez-vous du relevé récapitulatif des revenus tirés des opérations effectuées en 2023que vous avez dû recevoir de leur part, par courriel, et consultez notre page :
+
+Comment déclarer mes revenus d'activités annexes telles que le co-voiturage, la location de biens ou d'un logement meublé … ?
+
+Ces éléments vous permettront de compléter votre déclaration de revenus, sous réserve bien entendu que les revenus en question soient à déclarer.
+À noter :
+
+Si vous avez réalisé des transactions sur certaines plateformes et que cela ne vous est pas indiqué dans votre parcours de déclaration en ligne, cela ne signifie pas pour autant que ces revenus ne sont pas imposables. Il vous appartient de le vérifier et, le cas échéant, de déclarer ces revenus.
+Je suis accompagné(e) par l’administration fiscale
+
+Désormais, les montants et le nombre des transactions déclarées par les plateformes collaboratives sont mentionnées sur votre parcours déclaratif.
+
+Par ailleurs, si vous déclarez en ligne, un message vous sera présenté dans le cadre de votre parcours de déclaration pour vous accompagner, en accédant notamment aux fiches pratiques publiées sur notre site qui expliquent comment déclarer les revenus perçus par le biais des plateformes ou places de marché en ligne.
+Bon à savoir :
+
+Une dispense de déclaration par les plateformes est prévue pour les revenus issus de la vente de biens d’occasion entre particuliers, ainsi qu’en cas de service « sans objectif lucratif et avec partage de frais avec les bénéficiaires » (de type covoiturage).
+
+En ce qui concerne la vente de biens, la dérogation s’applique à condition de ne pas dépasser certains seuils d’activité.
+Concrètement, pour que la dérogation s’applique, il faut que l'utilisateur ait réalisé des opérations de vente sur la plateforme au cours de l'ensemble de l'année pour un montant inférieur ou égal à 2 000 € ET pour un nombre de transactions inférieur à 30. Si l'usager a dépassé l’un ou l’autre de ces 2 seuils (plus de 2 000 € OU 30 transactions ou plus), la plateforme doit déclarer les sommes en question à l'administration fiscale.
+
+En ce qui concerne les activités de partage de frais, la dérogation s’applique lorsque l’opérateur démontre par avance et sur une base annuelle que la modalité de fonctionnement de son site ne permet pas aux prestataires qui proposent le service de réaliser un profit, c’est-à-dire de percevoir une somme qui excéderait le montant des coûts directs engagés pour la réalisation de cette prestation objet du partage de frais à répartir entre les co-consommateurs, part du prestataire non comprise.
+
+Ces seuils et conditions ne concernent que les opérateurs de plateforme pour le respect de leur obligation déclarative auprès de l’administration dont ils relèvent. Ils ne concernent pas les usagers et ne préjugent donc pas du caractère éventuellement imposable des sommes déclarées par la plateforme qui excéderaient ces seuils, ou à l’inverse du caractère non imposable des sommes qui n’auraient pas été communiquées par la plateforme en vertu de ces mêmes seuils. Les usagers sont dans tous les cas invités à consulter les fiches pratiques dédiées disponibles sur le site impots.gouv.fr (cf. « Concrètement, comment ça se passe pour moi ?», ci-dessus).
+
+
+ 
