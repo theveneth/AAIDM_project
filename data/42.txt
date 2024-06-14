@@ -1,0 +1,60 @@
+Les pièges à éviter & les erreurs les plus fréquentes
+
+Montants pré-remplis
+Vous devez vérifier les montants pré-remplis sur votre déclaration et les corriger et/ou compléter chaque fois que nécessaire.
+Pensions alimentaires
+Il convient de déclarer au bon endroit la pension alimentaire que vous versez :
+• Le bénéficiaire est un enfant majeur : remplir la case 6EL et, éventuellement, 6EM de la dé- claration 2042 ;
+• Le bénéficiaire est un enfant mineur, un as- cendant ou une autre personne : remplir la case 6GU de la déclaration 2042 et compléter le nom et l’adresse des bénéficiaires ;
+• La pension alimentaire est versée en fonction d’une décision de justice devenue définitive avant le 1er janvier 2006 : remplir les cases 6GI et suivantes, selon les cas, de la déclaration 2042 C et compléter le nom et l’adresse des bénéficiaires.
+Vous ne devez pas déclarer cette pension en rubrique 6DD « Déductions » de la déclaration 2042-C
+La pension alimentaire que vous percevez (ou que l’un des membres du foyer fiscal perçoit) doit être déclarée dans l’une des rubriques 1AO, 1BO, 1CO ou 1DO de la déclaration 2042.
+
+Frais professionnels
+Un abattement de 10 % s’applique automati- quement sur vos traitements et salaires. Pour les revenus 2023, son montant est plafonné à 14 171 € et ne peut être inférieur à 495 €.
+Vous avez toutefois la possibilité d’opter pour les frais réels si vos dépenses professionnelles sont supérieures au montant de l’abattement de 10 %. Pour cela, vous devez remplir les rubriques 1AK, 1BK, 1CK ou 1DK de la déclaration 2042.
+Pour être déductibles, ces frais doivent être né- cessités par votre profession, être payés en 2023 et pouvoir être justifiés si l’administration fiscale en fait la demande.
+Erreur de montant des frais de garde des jeunes enfants
+Les dépenses engagées pour la garde des en- fants à charge âgés de moins de 6 ans et qui ouvrent droit à un crédit d’impôt n’incluent pas les frais de nourriture. Vous devez donc vérifier les factures où figurent ces frais, car les repas de cantine sont souvent mentionnés avec les frais de garde. En outre, vous devez déduire du mon- tant des dépenses les aides perçues au titre de la garde des enfants (notamment le complément de libre choix du mode de garde et les aides ver- sées par l’employeur ou le comité d’entreprise de l’employeur).
+
+Oubli des frais de scolarité
+Si vos enfants à charge (enfants mineurs ou ma- jeurs rattachés) poursuivaient des études secon- daires ou supérieures au 31 décembre 2023, vous bénéficiez d’une réduction d’impôt.
+Vous devez remplir la rubrique de la déclaration correspondant au niveau de scolarité de votre enfant : collège, lycée ou enseignement supérieur (rubriques 7EA, 7EC ou 7EF, et pour un enfant à charge en résidence alternée : 7EB, 7ED ou 7EG).
+Erreur de déclaration des dons aux
+associations
+Le taux de la réduction d’impôt diffère selon le type d’organisme bénéficiaire du don. Vous de- vez déclarer le montant des dons dans la case adéquate :
+• Les dons versés à des associations qui les uti- lisent pour venir en aide aux personnes en dif- ficulté doivent être déclarés à la ligne 7UD ;
+• Les dons versés à des associations, des orga- nismes d’intérêt général, des fondations re- connues d’utilité publique doivent être décla- rés à la ligne 7UF ;
+• Les dons versés à la Fondation du patrimoine pour la sauvegarde du patrimoine religieux doivent être déclarés à la ligne 7UJ.
+Erreur de déclaration des enfants à charge
+en cas de séparation ou de divorce
+En cas de divorce ou de séparation des parents, l’enfant est considéré comme étant à la charge du parent chez lequel il réside habituellement. Lorsqu’il réside alternativement au domicile de chacun de ses parents, il peut être pris en compte de manière égale au sein du foyer fiscal de cha- cun de ses parents, qui se répartissent alors l’avantage global de quotient familial lié à l’en- fant.
+Vous devez indiquer si votre enfant :
+• est à votre charge exclusive : dans ce cas, com-
+plétez les cases F ou G de la déclaration 2042 ;
+• ou en résidence alternée : dans ce cas, com- plétez les cases H ou I.
+Oubli de coche de la case « parent isolé »
+Si vous êtes célibataire, divorcé(e) ou séparé(e), et que vous élevez ou entretenez seul(e) votre (ou vos) enfant(s) à charge ou rattaché(s), vous pouvez bénéficier d’une majoration du nombre de parts du quotient familial.
+
+Pour cela, vous devez d’abord cocher la case T « parent isolé » de votre déclaration 2042. Cette case doit être cochée chaque année tant que vous remplissez les conditions.
+Si vous vivez en concubinage, vous n’avez pas le droit à cet avantage.
+Oubli de rattachement de l’enfant devenu
+majeur
+Pour les revenus 2023, vos enfants majeurs peuvent demander à être rattachés à votre foyer fiscal dans les cas suivants :
+• Ils sont âgés de moins de 21 ans au 1er janvier 2023 ;
+• Ils sont âgés de moins de 25 ans au 1er janvier 2023 et poursuivent leurs études ;
+• Ils sont handicapés.
+Le rattachement s’effectue lors de la déclaration de revenus en remplissant le cadre dédié et en indiquant les revenus perçus par les personnes à charge dans les cases concernées de la (ou des) colonne(s) « personne à charge ».
+Le choix entre le rattachement et l’imposition distincte dépend de votre situation (voir la ru- brique « Les questions les plus fréquentes »).
+Déclaration à tort de charges
+non déductibles
+La rubrique 6 « Charges déductibles » de la décla- ration de revenus permet d’indiquer les charges déductibles de votre revenu global.
+Pour être déductible du revenu global, une charge doit être expressément prévue par la loi et vous devez la déclarer dans la case spécifiquement prévue à cet effet.
+Ainsi, la rubrique 6DD « Autres déductions pré- vues par les articles 156, II et 156 bis du CGI »
+de la déclaration 2042 C ne permet pas de dé- duire toutes les charges, mais uniquement cer- taines charges spécifiques prévues par ces textes.
+
+
+Option pour le barème pour l’imposition des revenus de capitaux mobiliers et plus-values
+mobilières
+Pour imposer vos revenus de capitaux mobiliers et plus-values mobilières au barème progressif de l’impôt sur le revenu, vous devez cocher la case 2OP de votre déclaration de revenus. À dé- faut, ils seront imposés au taux de 12,8 % (au- quel s’ajoutent les prélèvements sociaux au taux de 17,2 %).
+Si vous avez coché la case 2OP sur votre déclara- tion de revenus 2022, celle-ci sera pré-cochée sur la déclaration de revenus 2023. Si vous ne mo- difiez rien, vous confirmez cette option. Si vous ne souhaitez pas opter pour celle-ci en 2023, il faudra donc la décocher.

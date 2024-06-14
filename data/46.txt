@@ -1,0 +1,42 @@
+J’ai mis un appartement en location, comment le déclarer ?
+
+Lorsque vous louez un bien immobilier à usage d’habitation, selon que le bien est meublé ou non, vous êtes imposé dans l’une des catégories suivantes :
+• Les revenus fonciers, si vous louez le bien nu (c’est-à-dire sans tous les éléments mobiliers indispensables à une occupation normale par le locataire) ;
+• Les bénéfices industriels et commerciaux (BIC), si vous louez le bien meublé (c’est-à- dire avec tous les éléments mobiliers indis- pensables à une occupation normale par le locataire).
+Location nue : imposition en revenus fonciers
+1re situation : vos recettes sont inférieures ou égales à 15 000 €
+Vous relevez de plein droit du régime « micro-fon- cier ».
+Dans ce cas, vous devez simplement déclarer le montant de vos recettes en ligne 4BE de la dé- claration 2042. Un abattement forfaitaire de 30 % sera automatiquement appliqué par l’ad- ministration fiscale. Le revenu net (montant des recettes après abattement) est soumis au barème progressif de l’impôt.
+Vous avez toutefois la possibilité d’opter pour le régime réel. Vous pouvez ainsi déduire l’ensemble de vos charges pour leur montant exact. Le ré- gime réel est plus avantageux que le régime micro-foncier dès lors que vos charges sont supé- rieures à l’abattement forfaitaire de 30 %.
+L’option pour le régime réel résulte de la simple souscription de la déclaration 2044. Elle s’ap- plique obligatoirement pour une période de 3 ans. Passé ce délai, vous pouvez renoncer à tout moment.
+La renonciation à cette option résulte de l’ab- sence de souscription de la déclaration 2044 et le report direct du montant des recettes en ligne 4BE.
+2e situation : vos recettes sont supérieures à 15 000 €
+Vous relevez de plein droit du régime réel. Vous devez remplir une déclaration 2044 et reporter certains montants sur la déclaration 2042 (ligne 4BA et, le cas échéant, lignes suivantes).
+Avec le régime réel, vous pouvez déduire l’en- semble de vos charges pour leur montant exact.
+Location meublée : imposition en bénéfices industriels et commerciaux (BIC)
+1re situation : vos recettes annuelles sont infé- rieures à 77 700 €
+Vous relevez de plein droit du régime « mi- cro-BIC ».
+Dans ce cas, vous devez simplement déclarer le montant de vos recettes sur la déclaration 2042 C PRO. Un abattement forfaitaire de 50 % sera automatiquement appliqué par l’adminis- tration fiscale, avec un minimum de 305 €.
+Vous avez toutefois la possibilité d’opter pour le régime réel (voir ci-après). Vous pouvez ainsi dé- duire l’ensemble de vos charges pour leur mon- tant exact. Le régime réel est plus avantageux que le régime micro-BIC dès lors que vos charges sont supérieures à l’abattement forfaitaire de 50 %.
+Vous devez formuler l’option de manière ex- presse dans le délai de dépôt de la déclaration d’ensemble des revenus souscrite au titre de l’an- née précédant celle au titre de laquelle l’option s’applique.
+Ainsi, l’option pour le régime réel au titre des revenus de location meublée de 2024 doit être exercée dans le délai de dépôt de la déclaration d’ensemble des revenus de 2023 (mai-juin 2024).
+2e situation : vos recettes annuelles sont supé- rieures à 77 700 €
+Vous relevez de plein droit du régime réel. Vous devez remplir une déclaration professionnelle 2031 et reporter certains montants sur la décla- ration 2042 C PRO.
+Avec le régime réel, vous pouvez déduire l’en- semble de vos charges pour leur montant exact.
+Si vous louez des chambres d’hôtes ou des meublés de tourisme classés, les seuils ci-dessus ne sont pas les mêmes. En effet, vous relevez du régime micro-BIC si vos recettes n’excèdent pas 188 700 €. L’abbatement forfaitaire pour frais est de 71 %.
+Cas d’exonération
+• 1er cas : exonération des locations d’une ou plusieurs pièces de la résidence principale qui n’excèdent pas 760 € par an. Elles ne doivent pas être déclarées ;
+• 2e cas : exonération des locations d’une ou plusieurs pièces de la résidence principale à 2 conditions cumulatives :
+▸ Les pièces louées doivent constituer pour le locataire en meublé sa résidence princi- pale ou, s’il est salarié saisonnier, sa rési- dence temporaire,
+▸ Le prix de location doit être fixé dans des limites raisonnables. Pour 2023, ces pla- fonds sont fixés à 199 € par mètre carré de surface habitable pour l’Île-de-France et à 147 € pour les autres régions.
+
+Loueur en meublé professionnel ou non professionnel ?
+Vous êtes loueur en meublé professionnel (LMP) si les 2 conditions suivantes sont réunies :
+• Les recettes annuelles retirées de cette activi- té par l’ensemble des membres du foyer fiscal excèdent 23 000 € ;
+• Ces recettes excèdent les revenus du foyer fis- cal soumis à l’impôt sur le revenu dans les ca- tégories des traitements et salaires, des bé- néfices industriels et commerciaux autres que ceux tirés de l’activité de location meublée, des bénéfices agricoles, des bénéfices non commerciaux et des revenus des gérants et associés.
+Si ces conditions ne sont pas remplies, vous êtes loueur en meublé non professionnel (LMNP).
+La qualification de professionnel ou de non pro- fessionnel a un impact sur votre déclaration de revenus. En effet, les rubriques de la 2042 C PRO à remplir ne sont pas les mêmes :
+• Cadre « Revenus industriels et commerciaux professionnels, y compris locations meublées professionnelles » pour les LMP ;
+• Cadre « revenus des locations meublées non professionnelles » pour les LMNP.
+
+
