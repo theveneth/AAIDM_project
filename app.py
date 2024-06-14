@@ -3,9 +3,9 @@ import streamlit as st
 
 bot = ChatBot()
     
-st.set_page_config(page_title="TAX ADVISOR")
+st.set_page_config(page_title="CONSEILLER FISCAL")
 with st.sidebar:
-    st.title('Tax return 2024 Bot')
+    st.title('Impôt revenu bot 2024')
 
 # Function for generating LLM response
 def generate_response(input):
@@ -14,7 +14,7 @@ def generate_response(input):
 
 # Store LLM generated responses
 if "messages" not in st.session_state.keys():
-    st.session_state.messages = [{"role": "assistant", "content": "Welcome, let's help you in your tax return for 2024. Please ask your question."}]
+    st.session_state.messages = [{"role": "assistant", "content": "Bonjour, comment puis-je vous aider à remplir votre déclaration de revenus pour 2024 ?"}]
 
 # Display chat messages
 for message in st.session_state.messages:

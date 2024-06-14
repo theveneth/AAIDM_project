@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 scipy == 1.11.2
 numpy == 1.25.2
 python-dotenv == 1.0.0
@@ -16,3 +17,9 @@ jq == 1.6.0
 moviepy==1.0.3
 mistralai == 0.0.12
 csvkit == 1.4.0
+=======
+langchain==0.1.1
+pinecone-client==2.2.4
+python-dotenv==1.0.0
+streamlit==1.29.0
+>>>>>>> Stashed changes

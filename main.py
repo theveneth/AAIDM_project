@@ -60,12 +60,14 @@ class ChatBot:
         )
 
         from langchain_core.prompts import PromptTemplate
-        template = """
-        You are an advisor. The user needs to complete his French tax return for 2024. 
-        Question: {question}
         
-        Context from the website or the French government : {context}
-        Answer : 
+        template = """
+        Tu es un conseiller fiscal. L'utilisateur doit remplir sa déclaration de revenus française pour 2024. 
+        Tu dois répondre aux questions en français. Ne pas faire d'encart et garder le texte sur le même plan.
+
+        Context: {context}
+        Question: {question}
+        Answer: 
         """
 
         self.prompt = PromptTemplate(template=template, input_variables=["context", "question"])
@@ -87,10 +89,11 @@ class ChatBot:
             def invoke(self, question):
                 context_docs = self.retriever.get_relevant_documents(question)
                 if not context_docs:
-                    return "I\'m sorry, I couldn't find any relevant information to answer your question."
+                    #return "I\'m sorry, I couldn't find any relevant information to answer your question."
+                    return "Je suis désolé, je n'ai pas trouvé de réponse à votre question"
                 
                 context = context_docs[0].page_content
-                reference = context_docs[0].metadata.get("reference", "No reference available.")
+                reference = context_docs[0].metadata.get("reference", "NAucune référence disponible")
 
                 prompt_input = {
                     "context": context,
