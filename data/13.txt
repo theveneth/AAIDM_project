@@ -1,0 +1,15 @@
+Où trouver le montant de mon revenu fiscal de référence ?
+
+Votre revenu fiscal de référence figure sur votre avis d'impôt sur le revenu reçu l'année dernière ; 
+
+
+Votre revenu fiscal de référence se trouve aussi dans le détail de votre imposition à la rubrique "informations complémentaires", s'il ne figure pas dans le cadre "Vos références" (notamment si vous avez reçu un avis de dégrèvement). 
+
+
+Cas particuliers :
+
+> Vous étiez rattaché au foyer de vos parents :
+Indiquez "0" dans la zone "Revenu fiscal de référence".
+
+> Vous n'avez jamais été imposé et vous n'étiez pas rattaché au foyer fiscal de vos parents :
+Si vous n'avez jamais déposé de déclaration de revenus et si vous n'étiez pas rattaché au foyer fiscal de vos parents, vous ne pouvez pas accéder à votre "espace particulier" cette année.

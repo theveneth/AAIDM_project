@@ -1,0 +1,9 @@
+La déclaration en mode prélèvement à la source
+
+Vous retrouverez sur votre déclaration de revenus le détail de toutes les retenues à la source réalisées en 2023 pour pouvoir les vérifier et, dans les cas où ces informations ne sont pas exactes, les modifier :
+
+ajout d'une ligne de montants « revenus / retenue à la source » lorsque vous ne retrouvez pas les informations de revenus et de retenue à la source d'un verseur de revenus ;
+
+modification d'un montant : cela vous permet de rectifier le montant de revenu et / ou de retenue à la source présenté par l'administration ;
+
+suppression d'une ligne de montants « revenus / retenue à la source » si vous contestez qu'un collecteur vous a versé des revenus imposables (et prélevé une retenue à la source).

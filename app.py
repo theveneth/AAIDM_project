@@ -30,8 +30,9 @@ if input := st.chat_input():
 # Generate a new response if last message is not from assistant
 if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant"):
-        with st.spinner("Getting your answer from data.."):
+        with st.spinner("Recherche dans la base de données en cours..."):
             response = generate_response(input) 
+            
             st.write(response) 
     message = {"role": "assistant", "content": response}
     st.session_state.messages.append(message)

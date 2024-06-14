@@ -1,0 +1,11 @@
+La case 3916 « Détention d'un compte à l'étranger » est pré-cochée sur ma déclaration. Pourtant, je n'ai pas de compte à l'étranger, que faire ?
+
+La case 3916 « Détention d'un compte à l'étranger » peut être déjà cochée quand vous recevez votre déclaration.
+
+Si vous n'avez pas de compte à l'étranger, cette case peut être tout de même cochée, si, par exemple vous détenez un compte Paypal (domicilié au Luxembourg) adossé à votre carte bancaire permettant de régler des achats en ligne.
+
+Si la case 3916 est pré-cochée alors que vous n'avez pas de compte à l'étranger ni contrat d'assurance-vie, et que les sommes encaissées via votre compte Paypal ne dépassent pas 10 000 € par an, vous pouvez décocher cette case. Pour ce faire :
+
+Dès le début de votre déclaration en ligne : sur l'écran de sélection des revenus, cliquez sur « Déclarations annexes », puis décochez la case correspondant à la déclaration n° 3916 « Déclaration par un résident d'un compte ouvert hors de France ». Validez.
+Si vous vous apercevez de ce pré-cochage en fin de déclaration, vous ne pourrez pas valider votre déclaration. Plutôt que de revenir au début de votre déclaration, cliquez sur le lien « Sélection des rubriques de la déclaration de revenus et annexes », dans le menu à gauche de votre écran. Cliquez ensuite sur « Déclarations annexes ».
+Cela vous permettra de décocher l’imprimé n° 3916.

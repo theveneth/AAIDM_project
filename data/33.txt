@@ -1,0 +1,11 @@
+Quelles nouvelles obligations pour ces plateformes ?
+
+La loi de finances pour 2022 a transposé en droit interne français une directive européenne qui impose certaines obligations aux opérateurs de plateforme ou d’application de mise en relation pour la réalisation d’opérations de vente d'un bien, de fourniture d'un service par des personnes physiques, de location d'un mode de transport ou de location d'un bien immobilier de toute nature.
+
+Ces obligations, qui s’appliquent aux opérations réalisées à compter du 1er janvier 2023, consistent, principalement, à adresser :
+
+à chacun de leurs utilisateurs (vendeur ou prestataire de service) ayant perçu des sommes à l'occasion de transactions réalisées par leur intermédiaire et dont elles ont connaissance, un document d'information mentionnant notamment le nombre d'opérations réalisées l'année précédente, le montant net perçu au titre de ces opérations, ainsi que le montant des frais et taxes prélevés par la plateforme ;
+
+à leur administration fiscale, ces mêmes informations.
+Ces nouvelles dispositions remplacent un précédent dispositif mis en place en France entre 2020 et 2023 ayant les mêmes finalités. Les opérateurs de plateforme déclarent dorénavant les informations requises auprès de l’administration fiscale de l’État où ils sont établis, les États en question s’échangeant ensuite les informations en fonction du lieu de résidence des vendeurs ou prestataires qui réalisent des opérations.
+

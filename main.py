@@ -7,6 +7,7 @@ from langchain_huggingface.llms import HuggingFaceEndpoint
 import pinecone
 from dotenv import load_dotenv
 import os
+import chardet
 
 class ChatBot:
     def __init__(self):

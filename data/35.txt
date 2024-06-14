@@ -1,0 +1,90 @@
+COMMENT DÉCLARER MES REVENUS D'ACTIVITÉS ANNEXES TELLES QUE LE COVOITURAGE, LA LOCATION DE BIENS OU D'UN LOGEMENT MEUBLÉ … ?
+L’économie collaborative, qu’est-ce que c’est ?
+L’économie collaborative est une activité économique qui consiste en la réalisation, par l’intermédiaire d’une plateforme numérique de mise en relation, d’opérations de vente ou de location de biens ou de fourniture de services, moyennant une contrepartie financière.
+Il peut s’agir, par exemple, des types d’activités suivants (liste non exhaustive) :
+
+Je vends  des biens qui m’appartiennent, que je fabrique ou que j’ai achetés dans le but de les revendre (vêtements, accessoires de mode (sacs, chaussures, etc), meubles, livres, etc).
+Je mets en location un bien immobilier ou une de ses dépendances, qu’il s’agisse de ma résidence principale ou secondaire ou d’un bien uniquement dédié à la location (maison ou appartement meublé, location de vacances, location saisonnière, meublé de tourisme, gîte, parking, cave, piscine, terrains, etc).
+Je loue un bien ou un objet qui m’appartient : tous types de véhicules (voitures, camions, remorques, motos, bateaux, jet-ski, etc), appareils électroménagers (nettoyeur vapeur, réfrigérateur, etc), outils de bricolage (perceuse, bétonnière, etc), articles de sport (appareil de fitness, club de golf, etc), etc.
+Je propose un service ou je partage des connaissances contre rémunération : ménage, repassage, jardinage, cours particuliers (soutien scolaire, cours de musique, de yoga, de couture, d’informatique, etc), coiffure à domicile, garde d’animaux, transport de passagers, etc.
+ 
+Dois-je indiquer les montants perçus lors de mes opérations d’économie collaborative sur ma déclaration de revenus ?
+Les sommes issues des opérations d’économie collaboratives sont généralement imposables mais peuvent toutefois bénéficier d’un abattement pour le calcul de l’impôt. Pour connaître leurs modalités déclaratives, vous pouvez consulter les fiches explicatives suivantes :
+
+Fiche « Je mets en location un logement meublé ou une dépendance »
+Fiche « Je mets en location des biens »
+Fiche « Je propose un service contre rémunération »
+Il existe toutefois des exceptions pour la vente de biens et la co-consommation (covoiturage)
+ 
+
+     Focus : dois-je déclarer les sommes que je reçois quand je vends des biens  ?
+
+Pour la vente de biens, il convient de prendre en compte certains critères complémentaires.
+
+Je vends des biens m’appartenant que j’ai utilisés et que je ne souhaite pas conserver : ces ventes ne sont en général pas imposables. Attention, il existe toutefois des cas particuliers pour la vente de bijoux, d’objets d’art ou de collection et pour certains biens dont la valeur excède 5 000 € ;
+Je vends des biens que j’ai achetés ou que je fabrique pour les (re)vendre : ces ventes sont imposables et doivent  être déclarées.
+Pour plus de précisions, vous pouvez consulter la fiche explicative « Je vends des biens ».
+ 
+
+     Focus : dois-je déclarer les sommes que je reçois quand je fais du covoiturage ?
+
+Pour les activités de covoiturage, les revenus perçus bénéficient d’une exonération et ne sont pas à déclarer lorsque les montants reçus se limitent au partage des frais avec les passagers qui m’accompagnent au cours de mes trajets personnels. Dans le cas contraire, les sommes sont imposables et doivent être déclarées. 
+
+Pour vous aider à déterminer si les sommes perçues remplissent les conditions d’exonération, consultez la fiche dédiée aux activités de covoiturage : « Je pratique le covoiturage avec partage de frais ou je transporte des passagers contre revenu ».
+ 
+
+     Focus : En tant que vendeur occasionnel, je fais peu d’opérations dans l’année ou je ne perçois que des petits montants
+
+Si le nombre d’opérations réalisées dans l’année est supérieur ou égal à 30 ou si les montants perçus excèdent 2 000 €, les opérateurs de plateforme ne transmettent pas à l’administration fiscale les informations correspondantes.  Il ne s’agit pas de seuils qui déclenchent automatiquement l’imposition de ces sommes. Ainsi, des sommes peuvent figurer dans les informations transmises par votre plateforme, sans qu’elles soient nécessairement imposables.
+
+Exemple : mon enfant a grandi. J’ai vendu 32 de ses anciens vêtements pour 5 euros chacun, soit 160 euros en tout sur une plateforme de vente de biens d’occasion. Puisqu’il s’agit de la vente de biens que je n’utilise plus, ces sommes ne sont pas imposables, même si j’ai fait plus 30 opérations et que les informations correspondantes à ces opérations figurent dans ma déclaration de revenus en ligne.
+ 
+
+Mon activité sur les plateformes est-elle soumise aux cotisations sociales ?
+Les recettes issues de ces activités, y compris pour les activités occasionnelles, lorsqu’elles dépassent certains seuils, présentent un caractère professionnel et doivent être déclarées. Elles sont alors soumises à cotisations sociales.
+Pour connaître vos obligations sociales, vous pouvez consulter le site de l'URSSAF en cliquant ici https://www.urssaf.fr/accueil/services/economie-collaborative.html 
+
+
+L’opérateur de la plateforme sur laquelle j’effectue des opérations me parle du dispositif DAC7. De quoi s’agit-il ?
+Le dispositif DAC7 est issu d’une directive européenne qui oblige les opérateurs de plateformes à communiquer aux administrations fiscales des États membres de l'Union européenne les informations sur les opérations réalisées par les vendeurs ou prestataires qui utilisent leurs services afin de réaliser des transactions (qu’il s’agisse de personnes physiques ou d’entités). Il succède à un précédent dispositif similaire, mis en place en France entre 2020 et 2023.
+
+Les administrations des différents États s’échangent ensuite de façon automatique les informations ainsi recueillies, en fonction de l’État de résidence des vendeurs et des prestataires ou en fonction de l’État dans lequel sont situés les biens immobiliers donnés en location.
+En France, ces informations sont également transmises aux organismes sociaux.
+ 
+
+Mon opérateur de plateforme me demande des informations personnelles ou sur les biens immobiliers que je loue. En a-t-il le droit et dois-je répondre à ses demandes ?
+Dans le cadre du dispositif DAC7, l’opérateur est tenu par la loi de recueillir auprès de vous des informations à caractère personnel permettant de fiabiliser votre identité ou les références des biens immobiliers que vous donnez en location lorsque vous proposez des biens ou des services via son site.
+
+Dans cette situation, votre opérateur est donc autorisé à vous demander de produire une copie de votre pièce d’identité ainsi que la communication de votre numéro fiscal. Il est également autorisé à vous demander le numéro fiscal du local  pour les biens immobiliers que vous louez. 
+
+Ces démarches de collecte d’informations peuvent être engagées par l’opérateur de plateforme lors de la création de votre compte ou ultérieurement, s’il n’a pas pu recueillir toutes les données lors de cette création.
+
+Vous avez l’obligation de répondre à ses demandes, l’opérateur pouvant mettre en œuvre des mesures contraignantes à votre égard.
+En cas de fermeture de votre compte par l’opérateur, vous ne serez autorisé à vous inscrire à nouveau que lorsque vous aurez fourni toutes les informations demandées.
+ 
+
+Où puis-je trouver les informations fiscales qui me sont demandées par l’opérateur du site sur lequel j’effectue des opérations ?
+Pour les particuliers, le numéro d’identification fiscal (NIF) figure sur la première page de votre déclaration de revenus et sur l'avis d'imposition (rubrique « Vos références »). Ce numéro comporte treize chiffres et commence par 0, 1, 2 ou 3.
+
+Pour les auto-entrepreneurs et les entrepreneurs individuels, le numéro fiscal est le numéro SIRET attribué lors de la création de l’activité. Ce numéro comporte quatorze chiffres.
+
+Le numéro fiscal du local loué est indiqué dans le descriptif du bien, consultable sur le site impots.gouv.fr par le propriétaire du bien, selon sa nature :
+
+dans l’espace particulier, sous la rubrique « Biens immobiliers » ;
+dans l’espace professionnel, sous la rubrique « Démarches », puis « Gérer mes biens immobiliers ».
+En fonction du site sur lequel vous proposez des biens immobiliers à la location, le numéro fiscal du local est parfois appelé numéro invariant du local, numéro cadastral ou numéro d’enregistrement foncier.
+ 
+
+Avec le dispositif DAC7, vais-je payer plus d’impôt qu’avant ?
+Non. Le dispositif DAC7 ne change rien à la fiscalité déjà existante des opérations d’économie collaborative.
+ 
+
+Alors, le dispositif DAC7, quel avantage pour moi ?
+La transmission des informations par votre opérateur de plateforme auprès de l’administration fiscale va permettre d’afficher les éléments qui vous concernent et ainsi de vous accompagner lors de votre déclaration de revenus en ligne.
+
+Vous pourrez alors vérifier, à l’aide des fiches d’aide mentionnées ci-avant, si les sommes qu’il a communiquées à l’administration doivent être déclarées. 
+
+Le dispositif DAC7 prévoit également l’obligation pour l’opérateur de plateforme de vous adresser en janvier un récapitulatif des opérations réalisées au cours de l’année précédente. 
+
+Ainsi, vous êtes sûr de ne rien oublier.
+
