@@ -1,0 +1,240 @@
+REVENUS FONCIERS
+
+REVENUS FONCIERS
+
+(CGI, art. 14 et suivants ; BOI- RFPI-CHAMP-10)
+
+Ce sont les revenus des propriétés bâties (appartements,
+maisons…) et non bâties (terrains…) : loyers, fermages, droits
+d’affichage, droits d’exploitation de carrières, revenus de parts de
+sociétés immobilières, lorsqu’ils ne sont pas inclus dans les bénéfices d’une entreprise industrielle, commerciale ou artisanale,
+d’une exploitation agricole ou d’une profession non commerciale.
+Vous n’avez pas de revenus fonciers à déclarer pour :
+– les logements dont vous vous réservez la jouissance (CGI, art. 15 II).
+L’exonération vise les locaux d’habitation et leurs dépendances
+immédiates (garages, jardins…) que vous utilisez à titre de résidence principale ou secondaire ou que vous mettez gratuitement
+à la disposition d’un tiers en l’absence de tout contrat de location ;
+– les locations et sous-locations en meublé, qui relèvent des bénéfices industriels et commerciaux, y compris lorsqu’elles sont exercées à titre occasionnel (CGI, 5° bis du I de l’article 35) ;
+– les sous-locations d’immeubles nus, qui relèvent des bénéfices
+non commerciaux.
+Si le montant brut des revenus fonciers perçus par votre foyer
+fiscal en 2023 n’excède pas 15 000 € (charges non comprises)
+quelle que soit la durée de la location dans l’année, et si vous ne
+donnez pas en location des immeubles bénéficiant d’un régime
+particulier, vous relevez du régime micro foncier (voir page suivante).
+Dans ce cas, vous n’avez pas de déclaration de revenus fonciers à
+souscrire. Il vous suffit de porter ligne 4BE de votre déclaration
+2042 le montant des revenus bruts perçus en 2023 (charges non
+comprises).
+Si vous ne relevez pas du régime micro foncier ou si vous optez pour
+l’imposition selon le régime réel, la détermination de vos revenus
+fonciers doit être effectuée sur la déclaration annexe 2044 ou la
+déclaration 2044 spéciale (voir p. 333 et suivantes).
+Reportez sur votre déclaration de revenus 2042 (lignes 4BA et
+suivantes), les résultats déterminés dans votre déclaration 2044
+ou votre déclaration 2044 spéciale .
+
+Si vous souscrivez une déclaration 2044 spéciale sur papier, cochez
+la case 4BZ afin que ce modèle d’imprimé vous soit adressé à
+votre domicile pour la déclaration des revenus de 2024.
+À NOTER
+Si les seuls revenus fonciers dont vous disposez proviennent de
+parts de sociétés immobilières non passibles de l’impôt sur les
+sociétés et non dotées de la transparence fiscale ou de fonds de
+placement immobilier, vous êtes dispensé de remplir la
+déclaration de revenus fonciers, quel que soit le montant de ces
+revenus. Toutefois, cette mesure de simplification ne s’applique
+pas aux parts de sociétés civiles de placement immobilier (SCPI)
+ouvrant droit à la déduction au titre de l’amortissement prévue à
+l’article 31 bis du CGI (Robien-SCPI ou Borloo-SCPI).
+Vous pouvez alors porter directement les revenus de vos parts de
+sociétés ou de fonds sur la déclaration de revenus ligne 4BA, en
+indiquant, sur une note annexe, les noms et adresses des sociétés
+avec les revenus correspondants et éventuellement le montant de
+vos intérêts d’emprunt personnels.
+
+Prélèvement à la source
+
+Depuis la mise en place du prélèvement à la source (PAS), les
+revenus fonciers de source étrangère ouvrant droit à un crédit
+d’impôt égal à l’impôt français, compris dans les revenus fonciers
+déclarés ligne 4BE (régime micro-foncier) ou ligne 4BA (régime
+réel), doivent également être déclarés ligne 4BK (régime microfoncier) ou ligne 4BL (régime réel), afin de ne pas être soumis à
+un acompte contemporain au titre du PAS.
+Si vous ne percevez plus de revenus fonciers après le 31.12.2023,
+cochez la case 4BN. Ainsi, vos revenus fonciers de 2023 ne seront
+pas retenus pour le calcul des acomptes.
+
+Figure 1. Déclaration n° 2042.
+
+4 ı revenus fonciers Revenus des locations non meublées
+Micro foncier
+Recettes brutes sans abattement n’excédant pas 15 000 € . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BE
+– dont recettes de source étrangère ouvrant droit à un crédit d’impôt égal à l’impôt français . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BK
+Nom du locataire et adresse . . . . . . . . . . . . . . . . . . . .
+
+Régime réel Report du résultat déterminé sur la déclaration no 2044
+Revenus fonciers imposables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BA
+– dont revenus de source étrangère ouvrant droit à un crédit d’impôt égal à l’impôt français . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BL
+Déficit imputable sur les revenus fonciers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BB
+Déficit imputable sur le revenu global . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BC
+Déficits antérieurs non encore imputés . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BD
+Vous ne percevez plus de revenus fonciers en 2024 . . . . . . . 4BN cochez
+
+Vous souscrivez une déclaration no 2044 spéciale . . . . 4BZ cochez
+
+6 ı charges déductibles
+
+157
+
+CSG déductible, calculée sur les revenus du patrimoine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6DE
+1 ER ENFANT
+
+2 E ENFANT
+
+RÉGIME MICRO FONCIER
+(CGI, art. 32 ; BOI-RFPI-DECLA-10)
+
+Si le montant brut des revenus fonciers perçus en 2023 par l’ensemble de votre foyer fiscal n’excède pas 15 000 €, charges non
+comprises, quelle que soit la durée de la location, vous relevez de
+plein droit du régime “micro foncier”.
+Dans ce cas, vous n’avez pas de déclaration annexe de revenus
+fonciers à remplir.
+Vous devez directement indiquer le montant brut de vos
+revenus fonciers de 2023 (loyers perçus, charges non comprises,
+et recettes qu’auraient pu produire les immeubles, autres que
+les logements, dont vous vous réservez la jouissance) sur la
+2042 , ligne 4BE.
+Un abattement forfaitaire de 30 %, représentatif de frais, sera
+automatiquement appliqué.
+Indiquez également l’adresse du ou des logements que vous
+donnez en location et dont les revenus sont imposés selon le
+régime micro foncier.
+À NOTER
+Si le montant brut de vos revenus fonciers déclarés ligne 4BE
+comprend des revenus fonciers de source étrangère ouvrant droit
+à un crédit d’impôt égal à l’impôt français, reportez également le
+montant de ces revenus fonciers de source étrangère ligne 4BK.
+Ces revenus ne sont pas retenus pour le calcul du PAS.
+
+Ce régime simplifié ne s’applique pas
+
+– si vous, ou l’un des membres de votre foyer fiscal, donnez en
+location un ou plusieurs immeubles :
+• qui bénéficient d’un régime particulier : monuments historiques
+ou immeubles possédés en nue-propriété ;
+• au titre desquels vous avez demandé le bénéfice de la réduction
+d’impôt Loc’Avantages prévue à l’article 199 tricies du CGI ;
+• au titre desquels vous avez opté pour une déduction au titre de
+l’amortissement (dispositifs Périssol, Besson-neuf, Robien,
+Borloo neuf) ;
+• au titre desquels vous avez demandé le bénéfice de déductions
+spécifiques (dispositifs Conventionnement Anah, Borloo ancien
+ou Cosse, Scellier intermédiaire, Scellier ZRR, Robien ZRR).
+Il en est de même si vous détenez des parts de SCI qui donnent en
+location l’un de ces immeubles ;
+– si vous, ou l’un des membres de votre foyer fiscal, détenez des
+parts de sociétés civiles de placement dans l’immobilier (SCPI) qui
+donnent en location un ou plusieurs immeubles bénéficiant d’un
+régime particulier cité ci-dessus ou qui font l’objet d’un amortissement (dispositifs Robien SCPI et Borloo SCPI) ;
+– si vous percevez uniquement des revenus fonciers provenant de
+vos parts de sociétés immobilières non soumises à l’impôt sur les
+sociétés ou de fonds de placement immobilier (FPI) ;
+– si vous donnez en location un logement pour lequel vous avez
+bénéficié de la réduction d’impôt prévue en faveur des travaux réalisés dans les logements touristiques (CGI, art. 199 decies EA et 199 decies F).
+
+158 – REVENUS FONCIERS
+
+Le régime micro foncier s’applique
+
+– si l’immeuble donné en location est détenu directement ou par
+l’intermédiaire d’une société immobilière de copropriété dotée de
+la transparence fiscale (société d’attribution) ;
+– si vous percevez des revenus fonciers provenant de parts de
+sociétés non transparentes non soumises à l’IS ou de FPI dès lors
+que vous déclarez en outre des revenus fonciers provenant d’un
+immeuble donné en location dont vous êtes directement propriétaire. L’immeuble détenu par la société et celui dont vous êtes
+personnellement propriétaire ne doivent pas bénéficier d’un
+régime particulier, exclusif du régime simplifié (cf. ci-dessus).
+Le seuil de 15 000 € s’applique quelle que soit la durée de location
+au cours de l’année. Il n’est donc pas apprécié prorata temporis.
+La limite de 15 000 € est appréciée en tenant compte, d’une part,
+des revenus bruts annuels provenant du ou des immeubles que
+vous donnez en location nue directement (ainsi que des loyers
+que pourraient produire les immeubles autres que des logements
+dont vous vous réservez la jouissance) et, d’autre part, le cas
+échéant, de la quote-part du revenu brut annuel des sociétés dont
+vous êtes associé, à proportion de vos droits.
+Si vous relevez du régime du micro foncier, vous pouvez cependant opter pour le régime réel des revenus fonciers par le simple
+dépôt d’une 2044 . Cette option est irrévocable pendant trois ans.
+Au-delà de cette période de trois ans, la souscription d’une déclaration de revenus fonciers vaut option pour le régime réel
+d’imposition au titre de la seule année concernée par la déclaration souscrite.
+À NOTER
+
+– Si vous êtes imposé selon le régime micro foncier, vous pouvez
+déduire du revenu net déterminé selon ce régime, les déficits
+fonciers d’années antérieures non encore imputés au 1er janvier de
+la première année d’application du régime micro.
+– Si les revenus que vous percevez sont soumis à la TVA, vous
+devez déclarer leur montant hors TVA. C’est également le montant
+hors TVA qui est retenu pour apprécier le seuil de 15 000 €.
+
+REVENUS FONCIERS
+
+PLAFONNEMENT GLOBAL DE CERTAINS AVANTAGES
+FISCAUX : DISPOSITIFS “ROBIEN” OU “BORLOO NEUF”
+(CGI, art. 200-0A ; BOI-IR-LIQ-20-20-10)
+
+Si en 2009 vous avez réalisé des investissements immobiliers
+locatifs, directement ou par l’intermédiaire de souscriptions au
+capital de SCPI, pour lesquels vous optez pour la déduction au titre
+de l’amortissement “Robien” ou “Borloo neuf”, l’avantage en impôt
+correspondant à cette déduction est retenu pour le calcul du
+plafonnement global de certains avantages fiscaux (voir p. 313).
+Indiquez ligne 4BY de la 2042 C le montant de l’amortissement
+déduit de vos revenus fonciers de 2023.
+
+Gains de cession de titres souscrits en exercice de bons de souscription de parts de créateur d’entreprise (BSPCE) :
+– activité exercée depuis au moins trois ans : BSPCE attribués
+• avant le 1.1.2018 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3SJ
+abattement fixe Départ à la retraite d’un dirigeant de PME. . . . . . . . . . 3TK
+• à compter du 1.1.2018 : gain avant abattement . . . . . . . . . . . . . . 3TJ
+– activité exercée depuis moins de trois ans : gains taxables à 30 % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3SK
+Transfert du domicile fiscal hors de France Report de la déclaration no 2074 -ETD “Exit Tax”
+– plus-values et créances dont l’imposition est en sursis de paiement
+aux prélèvements sociaux. . . 3WM
+• plus-values et créances soumises :
+• plus-values art. 150-0 B ter du CGI :
+prélèvements sociaux 15,5 % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3XM
+– plus-values et créances dont l’imposition ne bénéficie pas du sursis de paiement
+aux prélèvements sociaux. . . . 3WD
+• plus-values et créances soumises :
+• plus-values art. 150-0 B ter du CGI :
+prélèvements sociaux 15,5 % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3XD
+
+à l’IR (au barème ou à 12,8 %) . . . . . . 3WA
+IR et CEHR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3TA
+
+prélèvements sociaux 17,2 % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3XA
+à l’IR (au barème ou à 12,8 %) . . . . . . 3WB
+IR et CEHR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3TB
+prélèvements sociaux 17,2 % . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3YA
+
+Plus-values nettes de cession d’immeubles ou de biens meubles déjà imposées à 19 %. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3VZ
+Figure
+2. Déclaration
+n° au
+2042
+C. de la première cession d'un logement, autre que la résidence principale, sous condition de remploi . . . . . . . . . . . . . . . . . 3VW
+Plus-value
+exonérée
+titre
+
+4 ı REVENUS FONCIERS
+Amortissement « Robien » ou « Borloo neuf » déduit des revenus fonciers 2023 (investissements réalisés en 2009). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4BY
+Régime réel : revenus fonciers exonérés à soumettre au taux effectif . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4EA
+Micro foncier : recettes brutes exonérées à soumettre au taux effectif . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4EB
+
+159
+
+

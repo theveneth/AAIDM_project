@@ -1,0 +1,949 @@
+LA DÉCLARATION DES REVENUS 2023
+qui doit souscrire une déclaration de revenus ?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+comment souscrire cette déclaration ?. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+
+quelle déclaration souscrire ? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+vos services en ligne sur impots.gouv.fr . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+
+une déclaration par foyer fiscal
+
+..........................................................
+
+71
+
+QUI DOIT SOUSCRIRE UNE DÉCLARATION
+DE REVENUS ? (CGI, art. 4 A, 4B et 170)
+LES PERSONNES DOMICILIÉES EN FRANCE
+(CGI, art. 170 bis ; BOI-IR-CHAMP-10)
+
+Toutes les personnes domiciliées en France (métropole et DOM)
+doivent souscrire chaque année une déclaration de l’ensemble de
+leurs revenus et de leurs charges de famille.
+Cette obligation concerne, quel que soit le montant de leur revenu,
+toutes les personnes :
+– dont la résidence principale présente une valeur locative qui
+excède 150 € à Paris et dans les communes situées dans un rayon
+de 30 km de Paris et 114 € dans les autres localités ;
+– ou qui possèdent un avion de tourisme, un véhicule de tourisme,
+un yacht ou un bateau de plaisance, un ou plusieurs chevaux de
+course, ou qui disposent d’une résidence secondaire, ou qui
+utilisent les services d’un employé de maison.
+Par ailleurs, les personnes non imposables et qui ne disposent pas
+d’un des éléments cités ci-dessus ont également intérêt à souscrire une déclaration de revenus.
+Elles recevront ainsi un avis d'impôt indispensable pour effectuer
+certaines démarches et obtenir le bénéfice d’avantages fiscaux ou
+sociaux.
+À NOTER
+Si vous êtes fonctionnaire envoyé en mission à l’étranger,
+indiquez-le dans une note jointe votre déclaration de revenus.
+Bien que votre adresse soit située à l’étranger, vous continuez à
+relever du régime d’imposition des résidents français si vous
+n'êtes pas soumis dans le pays étranger à une imposition sur
+l'ensemble de vos revenus (voir convention fiscale).
+Pour un couple marié ou pacsé, si l’un des conjoints n’a pas son
+domicile en France, l’obligation fiscale en France du foyer porte
+sur l’ensemble des revenus du conjoint domicilié en France et
+sur les revenus de source française de l’autre conjoint.
+
+LES PERSONNES NON DOMICILIÉES EN FRANCE
+(CGI, art. 164 A et suiv., 182 A et suiv. ; BOI-IR-DOMIC)
+
+Les personnes non domiciliées en France doivent souscrire une
+déclaration de revenus si elles disposent de revenus de source
+française. Elles sont alors imposées sur ces seuls revenus.
+À NOTER
+Ces dispositions concernant l’imposition des personnes
+non domiciliées en France ne s’appliquent que sous réserve
+des conventions fiscales internationales conclues par la France
+(voir liste p. 357).
+
+Revenus imposables en France
+
+Revenus afférents à des biens ou droits sis en France
+ou à une activité exercée en France
+– revenus d’immeubles situés en France ou de droits relatifs à ces
+immeubles ;
+– revenus de valeurs mobilières françaises et revenus de tous
+autres capitaux mobiliers placés en France ;
+– revenus d’exploitations agricoles, industrielles ou commerciales,
+sises en France ;
+– revenus tirés d’activités professionnelles salariées ou non salariées exercées en France ;
+– revenus d’autres opérations à caractère lucratif ;
+– plus-values tirées d’opérations relatives à des fonds de commerce
+exploités en France ainsi qu’à des immeubles situés en France ;
+– plus-values de cession de droits sociaux d’une société soumise à
+l’impôt sur les sociétés et ayant son siège en France (lorsque le
+cédant détient plus de 25 % des droits dans les bénéfices sociaux) ;
+– sommes, y compris les salaires, correspondant à des prestations
+artistiques ou sportives fournies ou utilisées en France.
+Revenus versés par un débiteur domicilié ou établi en France
+– pensions et rentes viagères ;
+– produits perçus par les inventeurs ou au titre de droits d’auteur
+ainsi que tous les produits tirés de la propriété industrielle ou
+commerciale et de droits assimilés ;
+– sommes payées à des personnes qui ne possèdent pas d’installation fixe d’affaires en France, en rémunération des prestations
+de toute nature matériellement fournies ou effectivement utilisées en France.
+
+67
+
+Prélèvement à la source
+
+Taux moyen
+Toutefois, si vous justifiez que l'impôt résultant de l'application du
+taux moyen de l’impôt français sur l’ensemble de vos revenus de
+sources française et étrangère 1 est inférieur à l'impôt résultant de
+l'application du taux minimum, vous serez imposé à ce taux
+moyen sur vos seuls revenus de source française.
+Pour la détermination de ce taux moyen, les pensions alimentaires que vous avez versées sont déductibles de vos revenus
+mondiaux lorsqu'elles sont imposables entre les mains de leur
+bénéficiaire en France et que leur prise en compte ne minore pas
+l'impôt dont vous êtes redevable dans votre État de résidence.
+Elles sont admises en déduction dans les conditions et limites
+prévues au 2° du II de l'article 156 du CGI pour les pensions
+alimentaires versées par un contribuable domicilié en France.
+
+Calcul de l’impôt
+
+Si vous estimez pouvoir bénéficier de cette disposition, indiquez
+votre revenu mondial ligne 8TM de la 2042 et joignez la déclaration
+no 2041TM comportant le détail de vos revenus.
+Vous devez également joindre :
+– la copie certifiée conforme de l’avis d’imposition émis par l’administration fiscale de votre État de résidence ;
+– le double de la déclaration de revenus souscrite dans votre État
+de résidence à raison des revenus de l’ensemble des membres de
+votre foyer fiscal.
+Si les obligations déclaratives de votre État de résidence ne
+permettent pas de produire ces documents, vous devez fournir tout
+document probant de nature à établir le montant et la nature de vos
+revenus de source étrangère. Ces documents doivent être certifiés
+conformes et accompagnés d’une attestation de l’administration
+fiscale étrangère, certifiant leur prise en compte aux fins d’imposition.
+
+Si vous êtes fiscalement domicilié hors de France, vos revenus de
+source française soumis aux retenues à la source spécifiques
+prévues par les articles 182 A et suivants du CGI (salaires, pensions,
+rentes viagères à titre onéreux, rémunérations imposables dans la
+catégorie des bénéfices non commerciaux) sont hors du champ
+d'application du prélèvement à la source (PAS). Ces revenus
+doivent être déclarés sur des lignes spécifiques lignes 1AF à 1DF,
+1AL à 1DL, 1AR à 1DR, 5XJ ou 5XS et suivantes.
+Les autres revenus de source française (revenus fonciers, revenus
+des travailleurs indépendants) sont à déclarer sur les lignes “revenus imposables” de la rubrique de revenus concernée. Ils donneront lieu au versement de l'acompte prévu au 2° de l'article 204 A
+du CGI.
+
+Barème progressif
+Pour le calcul de l’impôt, il est fait application du système du
+quotient familial et du barème progressif de l’impôt sur le revenu
+prévu par l’article 197-I, 1 du CGI (voir toutefois l’application du taux
+minimum, ci-après).
+À NOTER
+Les personnes domiciliées hors de France ne peuvent pas
+prétendre à la déduction de charges du revenu global ni à des
+réductions ou crédits d’impôt. Par exception, elles peuvent
+cependant bénéficier du crédit d’impôt au titre des travaux de
+prévention des risques technologiques dans les logements donnés
+en location, des réductions et crédits d'impôt en faveur des
+entreprises (hormis le crédit d'impôt pour remplacement pour
+congés des agriculteurs et la réduction d'impôt mécénat), de la
+réduction d'impôt Loc'Avantages et de la réduction d'impôt Pinel
+ou Denormandie au titre des investissements réalisés à compter
+du 1.1.2019 si le contribuable était domicilié en France à la date de
+réalisation de l'investissement.
+Toutefois les contribuables non-résidents sont assimilés à des
+personnes fiscalement domiciliées en France, au sens du droit
+interne, (même s’ils restent soumis à une obligation fiscale
+limitée, au sens des conventions internationales) lorsqu’ils tirent
+de la France l’essentiel de leurs revenus imposables
+(“Non-résident Schumacker”). Les personnes qui se trouvent dans
+cette situation peuvent bénéficier des réductions et crédits
+d’impôts qui sont en principe réservés aux personnes fiscalement
+domiciliées en France (voir BOI-IR-DOMIC-40).
+
+Taux minimum
+L’article 197 A du CGI prévoit l’application du barème progressif de
+l’impôt mais également que le montant de l’impôt ne peut pas
+être inférieur à 20 % de la fraction du revenu imposable inférieure
+ou égale à la limite supérieure de la 2e tranche du barème de
+l'impôt sur le revenu (28 797 € pour les revenus de 2023) et à 30 %
+de la fraction supérieure à cette limite. Ces taux sont respectivement fixés à 14,4 % et 20 % pour les revenus perçus dans les DOM.
+À NOTER
+
+Si votre domicile fiscal est situé dans un État membre de l'Union
+européenne ou dans un État avec lequel la France a signé une
+convention d'assistance administrative de lutte contre la fraude et
+l'évasion fiscales ou une convention d'assistance mutuelle en
+matière de recouvrement d'impôt, vous pouvez, dans l'attente de
+pouvoir produire les pièces justificatives, joindre à votre déclaration de revenus une déclaration sur l'honneur de l'exactitude des
+informations fournies afin de bénéficier de l'imposition selon le
+taux moyen. La souscription du formulaire no 2041TM vaut déclaration sur l'honneur.
+Retenue à la source spécifique des non-résidents
+(BOI-IR-DOMIC-10-20-20)
+
+Une retenue à la source est opérée par le débiteur sur certains
+revenus de source française versés à des personnes domiciliées
+hors de France, lorsque ces revenus sont imposables en France :
+– traitements, salaires, pensions, rentes viagères ;
+– revenus de capitaux mobiliers ;
+– plus-values immobilières ;
+– plus-values de cession de droits sociaux ;
+– certains revenus non salariaux : rémunérations des activités
+professionnelles relevant de la catégorie des bénéfices non
+commerciaux ; droits d’auteur ; produits de la propriété industrielle
+ou commerciale .
+
+Les impositions résultant de l'application du taux minimum ne sont
+pas mises en recouvrement si leur montant est inférieur à 305 €.
+1. Taux moyen =
+Impôt résultant de l’application du barème au revenu mondial
+x 100
+Revenu mondial
+
+68 – LA DÉCLARATION DE REVENUS
+
+LA DÉCLARATION DE REVENUS
+Les salaires, pensions, rentes viagères à titre onéreux et revenus
+non salariaux soumis aux retenues à la source prévues par les
+articles 182 A et suivants du CGI se trouvent hors du champ d'application du PAS mis en place depuis le 1.1.2019. Dès lors, ces revenus doivent être déclarés séparément afin de ne pas être retenus
+pour le calcul du PAS.
+
+Toutefois, lorsque le montant de la retenue à la source calculée
+sur la totalité de vos salaires, pensions et rentes viagères excède
+le montant de l’impôt qui résulterait de l’application du taux minimum à ces mêmes revenus, vous pouvez demander le remboursement de cet excédent (qu’il s’agisse de la retenue au taux de
+12 % ou de 20 %).
+
+Retenue à la source sur les salaires, pensions et rentes viagères
+L’article 182 A du CGI prévoit l’application d’une retenue à la source
+sur le montant net imposable des salaires, pensions et rentes
+viagères de source française, versés à des personnes fiscalement
+domiciliées hors de France. La retenue s’applique aux taux indiqués dans les tableaux 1 et 2.
+
+Vos obligations déclaratives en France
+
+À NOTER
+Les taux de 12 % et 20 % sont réduits à 8 % et 14,4 % dans les
+DOM. Ces taux s’appliquent, pour les non-résidents, aux salaires
+perçus au titre d’activités exercées dans les DOM et aux pensions
+et rentes viagères payées dans ces départements.
+Les salaires et pensions perçus par les non-résidents ainsi que la
+retenue à la source y afférente sont préremplis dans la 2042 K .
+
+Vous devez indiquer sur la 2042 , lignes 1AF à 1DF, 1AL à 1DL ou 1AR
+à 1DR la totalité de vos salaires, pensions ou rentes viagères à titre
+onéreux, retenue à la source non déduite. Vous devez aussi indiquer le montant total de la retenue à la source, ligne 8TA de la
+2042 .
+N’oubliez pas de joindre à votre déclaration le tableau (annexé à
+la notice 2041 E) indiquant, pour chaque employeur, le montant et
+la nature de la rémunération perçue ainsi que la durée d'activité,
+afin de permettre l’imputation du montant de la retenue à la
+source au taux de 20 % sur votre impôt sur le revenu.
+La retenue à la source de 20 % sur les salaires, pensions et rentes
+viagères n’est pas libératoire de l’impôt sur le revenu. La fraction
+des revenus soumise à cette retenue est imposable et la retenue
+au taux de 20 % s’impute sur l’impôt sur le revenu.
+En revanche, la retenue effectuée au taux de 12 % est libératoire
+de l’impôt sur le revenu. La fraction des revenus soumise à cette
+retenue n’est pas imposable et la retenue n’est pas imputable.
+
+Si vous résidez hors de France, vous devez déposer votre déclaration de revenus au service des impôts des particuliers non-résidents
+au plus tard le 21 mai 2024. Si vous déclarez vos revenus en ligne,
+la date limite est fixée au 23 mai 2024.
+Les résidents de Monaco tenus au dépôt d’une déclaration de
+revenus en France doivent la déposer au service des impôts des
+particuliers de Menton.
+Si vous transférez votre domicile fiscal à l’étranger, vous n’avez
+pas à déposer de déclaration provisoire au moment de votre
+départ.
+L’année suivant celle de votre départ, vous devez déposer, auprès
+de votre centre des finances publiques, deux déclarations des
+revenus perçus pendant l’année :
+– une déclaration 2042 (et éventuellement une 2042 C , une
+2042 C PRO …) comportant l’ensemble des revenus perçus avant le
+départ à l’étranger ;
+– et, le cas échéant, une déclaration 2042 NR comportant les revenus de source française perçus après votre départ.
+Si vous fixez votre domicile en France en cours d’année, vous
+devez, en mai-juin2 de l’année suivante, déposer votre déclaration
+de revenus auprès :
+– du service des impôts des non-résidents si vous perceviez des
+revenus de source française avant votre installation en France.
+Dans ce cas, déposez une 2042 NR pour déclarer les revenus de
+source française perçus avant votre installation en France et une
+2042 pour déclarer les revenus de sources française et étrangère
+perçus depuis votre installation en France ;
+– du centre des finances publiques de votre nouveau domicile,
+dans le cas où, précédemment, vous ne perceviez pas de revenus
+de source française et où vous ne déposiez donc pas de déclaration de revenus en France. Souscrivez une 2042 indiquant les
+revenus de sources française et étrangère, perçus depuis votre
+installation en France.
+
+Tableau 1. Retenue à la source sur les salaires et pensions.
+
+REVENUS DE 2023 : LIMITE DES TRANCHES (EN EUROS)
+TAUX
+
+0%
+
+Année
+
+Trimestre Mois
+
+Semaine Jour
+
+16 050
+
+4 013
+
+1 338
+
+309
+
+51
+
+12 % de................. 16 050
+à ................... 46 557
+
+4 013
+11 639
+
+1 338
+3 880
+
+309
+895
+
+51
+149
+
+20 % au-delà de .. 46 557
+
+11 639
+
+3 880
+
+895
+
+149
+
+moins de ....
+
+Où vous renseigner ?
+Service des impôts des particuliers non-résidents
+10, rue du Centre – TSA 10010 – 93465 Noisy-le-Grand Cedex
+Tél. : 33 (1) 72 95 20 42
+Site internet impots.gouv.fr >International > Particulier
+Mél : via votre messagerie sécurisée accessible depuis votre espace
+particulier sur impots.gouv.fr
+
+Tableau 2. Retenue à la source sur les salaires et pensions.
+
+REVENUS DE 2024 : LIMITE DES TRANCHES (EN EUROS)
+TAUX
+
+0%
+
+Année
+moins de .... 16 820
+
+Trimestre Mois
+
+Semaine Jour
+
+4 205
+
+1 402
+
+323
+
+54
+
+12 % de................. 16 820
+à ................... 48 790
+
+4 205
+12 198
+
+1 402
+4 066
+
+323
+938
+
+54
+156
+
+20 % au-delà de.. 48 790
+
+12 198
+
+4 066
+
+938
+
+156
+
+2. voir page 71 la date limite de dépôt de la déclaration.
+
+69
+
+QUELLE DÉCLARATION SOUSCRIRE ?
+En 2024, une déclaration de revenus papier est adressée aux
+contribuables qui ont souscrit leur déclaration des revenus 2022 au
+printemps 2023 en format papier (sauf s'ils ont opté pour ne plus
+la recevoir sur papier à compter de 2024).
+Ils peuvent recevoir une déclaration préremplie 2042 K , le cas échéant
+accompagnée de la 2042 RICI , de la 2042 C , de la 2042 C PRO , de la
+2044 … selon la nature des revenus et charges déclarés pour les
+revenus 2022.
+Certains contribuables reçoivent, à la place de la 2042 K , une
+déclaration automatique 2042 K AUTO .
+
+La déclaration préremplie 2042 K
+
+Votre nom de naissance est prérempli en première ligne de la
+rubrique "État civil".
+Vous pouvez cependant choisir d'utiliser un autre nom pour recevoir vos courriers. Ce nom d'usage peut être :
+- si vous êtes marié(e), le nom de votre époux (épouse) uniquement ou un double nom composé de votre nom et du nom de
+votre époux (épouse) dans l'ordre que vous souhaitez ;
+- si vous êtes divorcé(e), le nom de votre ex-époux (épouse) si
+vous êtes autorisé(e) à conserver l'usage de ce nom ;
+- si vous êtes veuf (veuve), le nom de votre époux (épouse) ou les
+deux noms accolés.
+À NOTER
+Vous ne pouvez pas choisir comme nom d'usage le nom de votre
+concubin ou de votre partenaire de Pacs.
+
+Si vous avez changé de domicile en 2023 ou en 2024, indiquez
+votre nouvelle adresse dans l’un ou l’autre des deux cadres figurant en première page de la déclaration. N’oubliez pas d’indiquer
+tous les éléments nécessaires à la bonne identification de votre
+habitation (n° d’appartement, bâtiment, résidence…).
+Votre situation de famille connue de l’administration est indiquée
+en page 2. Les dates de naissance des enfants et le nombre de
+personnes à charge sont également préremplis.
+En cas de décès en 2023 du contribuable ou de l'un des conjoints,
+la date de décès est imprimée sur la déclaration préremplie au
+nom du contribuable ou du couple.
+En outre, en cas de décès d'un conjoint, une déclaration est adressée sous pli séparé au conjoint survivant (accompagnée d’une
+notice spécifique).
+La déclaration 2042 K est préremplie de vos coordonnées bancaires
+si vous avez déjà communiqué un RIB à l’administration fiscale.
+Ces coordonnées sont utilisées pour le paiement de l'impôt sur le
+revenu dans le cadre du prélèvement à la source.
+La 2042 K est également préremplie du montant :
+– des traitements, des salaires, des indemnités journalières de
+maladie, des allocations de chômage et de préretraite, des
+pensions et retraites, des rentes viagères à titre onéreux perçus
+par le déclarant 1 et le déclarant 2. Le détail de ces revenus déclarés par chaque partie versante est indiqué dans le cadre figurant
+au bas de la page 4 ;
+– des revenus de capitaux mobiliers du foyer ;
+
+70 – LA DÉCLARATION DE REVENUS
+
+– du montant des dépenses d’emploi à domicile et des éventuelles
+aides perçues pour ces dépenses ;
+– du montant de l’avance de réductions et crédits d’impôt perçu en
+janvier 2024;
+– du prélèvement à la source effectué en 2023 (retenue à la
+source, acomptes d'impôt sur le revenu, acomptes de prélèvements sociaux et remboursements de trop-prélevé déjà obtenus).
+Les informations concernant les personnes à charge ou rattachées
+ne sont pas préremplies.
+En page 4, sont indiqués, le cas échéant, les plafonds de déduction de l’épargne retraite ainsi que la CSG déductible et les plusvalues en report d’imposition.
+Vous pouvez rectifier ou compléter les éléments préimprimés sur
+la déclaration papier dans les cases blanches prévues à côté ou
+au-dessous des cases préremplies ou dans la déclaration en ligne.
+Si vous renvoyez la déclaration sur papier, vous devez signer la
+déclaration préremplie, que ce soit telle que vous l’avez reçue ou
+après l’avoir complétée ou rectifiée.
+
+La déclaration automatique 2042K AUTO
+
+La déclaration automatique des revenus 2022 est adressée aux
+contribuables qui ont déclaré au titre de l'année 2022 uniquement
+des revenus connus de l'administration (salaires, pensions, revenus de capitaux mobiliers) et qui n'ont pas signalé de changement
+de situation de famille ou de changement d'adresse.
+Cette déclaration 2042 K AUTO est préremplie des informations
+connues de l'administration : situation de famille, revenus
+(salaires, pensions, revenus de capitaux mobiliers), CSG déductible, dépenses d'emploi à domicile payées via le CESU ou PAJEmploi, prélèvement à la source déjà payé. Le montant de l'impôt sur
+le revenu calculé sur la base de ces éléments est présenté ainsi
+que le taux de prélèvement à la source qui en résulte, ayant vocation à s'appliquer à compter de septembre 2024.
+Pour les contribuables éligibles à la déclaration automatique, vérifier c’est déclarer : si vous n'avez rien à ajouter ni à modifier aux
+informations préremplies, vous n'avez rien à faire. Vous n'avez pas
+à renvoyer la déclaration. L'impôt sera établi sur la base des
+éléments connus de l'administration fiscale présentés sur la déclaration.
+Si vous souhaitez ajouter ou modifier un revenu (par exemple une
+pension alimentaire, un revenu foncier ou de travailleur indépendant), ajouter des dépenses ouvrant droit à réduction ou crédit
+d'impôt, opter pour l'imposition des revenus de capitaux mobiliers
+au barème progressif, signaler un changement de situation de
+famille... vous devez indiquer ces nouveaux éléments en déclarant
+en ligne ou, si vous ne disposez pas d'un accès à internet ou si
+vous n'êtes pas en mesure de l'utiliser, en utilisant le formulaire
+2042 K AUTO papier et en le renvoyant à votre service des impôts
+de particuliers. Si nécessaire, vous devez joindre une déclaration
+2042 RICI , 2042 C ... comportant les rubriques qui ne figurent pas sur
+la 2042 K AUTO .
+
+LA DÉCLARATION DE REVENUS
+
+UNE DÉCLARATION PAR FOYER FISCAL
+(CGI, art. 6 ; BOI-IR-CHAMP-20)
+
+Une déclaration unique doit être souscrite pour l’ensemble des
+membres du foyer fiscal :
+– le contribuable, s’il s’agit d’une personne célibataire, veuve,
+divorcée, séparée ; ou les deux conjoints, s’il s’agit d’un couple
+marié ou pacsé (les personnes vivant ensemble sans être mariées
+ni pacsées doivent souscrire des déclarations distinctes) ;
+– ainsi que les personnes à leur charge pendant l’année 2023.
+La déclaration doit mentionner tous les revenus perçus par l’ensemble des membres du foyer fiscal en 2023. Une seule déclaration commune 3 doit être souscrite pour l’année entière par les
+époux ou partenaires au titre de l’année du mariage ou du Pacs
+(voir p. 52).
+
+Déclaration distincte des conjoints
+
+Les époux doivent souscrire, chacun, une déclaration personnelle
+lorsqu’ils :
+– se sont mariés en 2023 et ont opté pour la déclaration séparée
+de leurs revenus ;
+– sont séparés de biens et ne vivent pas sous le même toit ;
+– sont en instance de séparation de corps ou de divorce et ont été
+autorisés à résider séparément ;
+– ont, I’un ou l’autre, abandonné le domicile conjugal et disposent
+chacun de revenus propres ;
+– ont divorcé en 2023.
+
+pour l’imposition séparée) au centre des finances publiques de
+votre domicile conjugal.
+
+Délai de déclaration
+
+Le délai de souscription de la déclaration d’ensemble des revenus
+expire le 21 mai 2024 à minuit.
+Si vous déclarez en ligne, vous bénéficiez de délais supplémentaires. Trois dates limites sont fixées selon le département dans
+lequel se situe votre domicile au 1er janvier 2024 :
+– départements 01 à 19 et non-résidents : 23 mai 2024 ;
+– départements 20 à 54 : 30 mai 2024 ;
+– départements 55 à 976 : 6 juin 2024.
+
+Signature de la déclaration
+
+La déclaration doit être datée et signée (elle l’est automatiquement dans sa version en ligne).
+Les deux époux ou les deux partenaires d’un Pacs doivent signer la
+déclaration lorsqu’elle est déposée en format papier. Toutefois, la
+déclaration signée par un seul époux ou partenaire est opposable à
+l’autre ; elle est donc prise en considération par l’administration.
+Si la déclaration est déposée par un professionnel (avocat ou
+expert-comptable, par exemple) au titre d’un mandat écrit, celui-ci
+doit apposer son cachet et cocher la case ØTA au bas de la
+première page de la déclaration de revenus. La production de ce
+mandat peut lui être demandée.
+
+Frais de tutelle ou de curatelle
+(BOI-IR-BASE-10-10-10-20)
+
+Les partenaires de Pacs doivent souscrire chacun une déclaration
+personnelle lorqu’ils :
+– ont conclu le Pacs en 2023 et ont opté pour la déclaration séparée de leurs revenus ;
+– sont séparés de biens (pacs conclus après le 1.1.2017) ou ont un
+régime conventionnel équivalent (pacs antérieurs au 1.1.2017) et
+ne vivent pas sous le même toit ;
+– ont, I’un ou l’autre, abandonné le domicile commun et disposent
+chacun de revenus propres ;
+– ont rompu le Pacs en 2023.
+
+COMMENT SOUSCRIRE CETTE
+DÉCLARATION ?
+Les personnes dont la résidence principale est équipée d'un accès à
+internet doivent souscrire leur déclaration de revenus de 2023 par
+voie électronique. Toutefois, les contribuables qui estiment ne pas
+être en mesure de souscrire leur déclaration en ligne peuvent la
+souscrire sur papier. En outre, les contribuables qui résident dans
+des zones où aucun service mobile n'est disponible sont dispensés
+de l'obligation de télédéclaration (CGI, art. 1649 quater B quinquies).
+Si vous déclarez sur papier, et que vous n’êtes pas concerné par la
+déclaration automatique, vous devez renvoyer votre déclaration au
+centre des finances publiques qui y est mentionné, même si vous
+avez changé de domicile en 2023.
+Indiquez votre nouvelle adresse en première page de la déclaration
+de la 2042 K ou en page 4 de la 2042 K AUTO .
+Toutefois, en cas de mariage ou de Pacs en 2023, envoyez votre
+déclaration commune (ou vos deux déclarations en cas d‘option
+
+Les frais occasionnés par la gestion des revenus du patrimoine des
+majeurs placés sous tutelle ou sous curatelle, qui constituent des
+dépenses engagées en vue d'acquérir ces revenus, sont déductibles
+pour l'établissement de l'impôt dû par les intéressés comme l'ensemble des charges exposées à cette fin. Cette déduction s'opère
+selon les règles propres à chacune des catégories de l'impôt sur le
+revenu à laquelle se rattachent les produits du patrimoine en cause.
+Ainsi, la déduction des frais de tutelle peut être pratiquée sur tous
+les revenus dès lors qu'ils sont soumis à l'impôt sur le revenu.
+Dans la généralité des cas, leur imputation s'effectue sur le
+montant brut du revenu concerné (traitements, salaires, pensions,
+revenus de capitaux mobiliers, revenus fonciers, etc.), conformément aux dispositions de l'article 13 du CGI.
+En particulier, les traitements et salaires ou les pensions déclarés
+pour le compte des incapables majeurs peuvent être minorés des
+frais de tutelle avant application de la déduction forfaitaire de
+10 % pour frais professionnels ou de l'abattement spécial de 10 %
+relatif aux pensions, dès lors que ces frais ont bien été prélevés
+sur la rémunération ou la pension mise à leur disposition.
+En matière de revenus fonciers, les frais de tutelle sont imputables sur le revenu brut foncier par une déduction en frais et
+charges en application du e du 1° du I de l'article 31 du CGI.
+En matière de revenus de capitaux mobiliers, les frais de tutelle
+ne sont imputables qu’en cas d’option pour l’imposition d’ensemble des revenus de capitaux mobiliers et gains de cession de
+valeurs mobilières au barème progressif. Ils sont à déclarer en
+ligne 2CA “Frais et charges déductibles si option barème”.
+
+3. Sauf option pour le dépôt de deux déclarations séparées pour l’année entière.
+
+71
+
+Lorsque les frais de tutelle se rapportent à la vente d'un immeuble
+ou à la cession de valeurs mobilières et droits sociaux, la déduction s'opère pour le calcul de la plus-value imposable, sur le prix
+de vente des biens cédés.
+Les mêmes règles sont applicables aux frais de gestion prélevés,
+le cas échéant, sur les revenus des majeurs placés sous curatelle.
+En cas de pluralité des revenus, l'imputation s'effectue proportionnellement au montant brut de chaque revenu, y compris des revenus exonérés d'impôt.
+Exemple :
+Au cours de l'année N, le tuteur a perçu les revenus suivants pour le
+compte d'un couple d'incapables majeurs :
+salaires : 7 622 € ;
+pensions : 4 268 € ;
+intérêts du livret A : 305 €.
+Total des revenus perçus : 7 622 + 4 268 + 305 = 12 195 €.
+Les frais de tutelle s'élèvent à 610 €.
+a) Ventilation des frais de tutelle déductibles :
+salaires : 610 × 7 622 / 12 195 = 381 € ;
+pensions : 610 × 4 268 / 12 195 = 213 €.
+b) Frais de tutelle non déductibles :
+intérêts du Livret A. Exonérés : 15 €.
+c) Sommes à porter sur la déclaration des revenus :
+salaires : 7 622 – 381 = 7 241 € ;
+pensions : 4 268 – 213 = 4 055 €.
+
+Les justificatifs des sommes déduites au titre des frais de tutelle
+ainsi que le détail de leur imputation sur les différents revenus
+concernés ne sont pas à joindre à la déclaration de revenus. Conservez-les afin de pouvoir les produire, le cas échéant, à la demande
+de votre centre des finances publiques.
+
+VOS SERVICES EN LIGNE : IMPOTS.GOUV.FR
+Le site impots.gouv.fr vous offre un ensemble de services en ligne
+disponibles 7 jours sur 7 et 24 h sur 24. En accédant à votre espace
+Particulier, vous pouvez :
+– gérer votre profil et opter pour ne plus recevoir vos avis d'impôt
+sous format papier1 ;
+– déclarer vos revenus2 ;
+– gérer votre prélèvement à la source (vos options, actualisation
+de votre situation de famille et de vos revenus, et consultation de
+l’historique des prélèvements) ;
+- gérer vos biens immobiliers ;
+– consulter votre situation fiscale personnelle ;
+– payer ;
+– déclarer un don ou une cession de droits sociaux ;
+– effectuer une démarche (changement d'adresse…), prendre un
+rendez-vous ou déposer une réclamation via votre messagerie
+sécurisée.
+Pour accéder à tous ces services, vous devez créer votre espace
+particulier.
+
+CRÉATION DE VOTRE ESPACE PARTICULIER
+SUR IMPOTS.GOUV.FR
+Pour cela, rendez-vous dans la rubrique “Votre espace particulier”,
+saisissez votre numéro fiscal et laissez-vous guider. Une fois votre
+espace créé, vous recevrez un courriel contenant un lien d’activation, à l’adresse électronique que vous avez indiquée. Cliquez sur
+ce lien pour finaliser la création de votre espace.
+La rubrique “Mon profil” de votre espace vous permettra de modifier toutes vos informations personnelles telles que adresse électronique, mot de passe, numéros de téléphone et options de
+dématérialisation pour votre déclaration de revenus et vos avis
+d’impôts (impôt sur le revenu et prélèvements sociaux / IFI,
+impôts locaux).
+
+Sécurisez l’accès à votre espace particulier
+
+Afin de renforcer la sécurité de votre espace particulier, la Direction générale des Finances publiques a mis en place l’envoi d’un
+code à usage unique adressé par SMS lorsque vous souhaitez
+récupérer votre numéro fiscal ou renouveler votre mot de passe.
+Pour cela, vous devez renseigner et valider votre numéro de téléphone portable dans votre espace particulier à la rubrique “Mon
+profil”, en cliquant sur le bouton “Modifier” dans la partie “Mes
+moyens de contact”.
+Si vous ne l’avez pas déjà fait, une fenêtre d’information vous le
+rappellera lorsque vous vous connecterez à votre espace particulier. Vous n’aurez qu’à suivre les instructions affichées.
+
+1. Dans ce cas, vous êtes informé par courriel dès que votre avis d’impôt est
+disponible en ligne.
+2. Vous êtes informé par courriel dès que vous pouvez déclarer vos revenus en
+ligne.
+
+72 – LA DÉCLARATION DE REVENUS
+
+Si vous avez déjà renseigné un numéro de téléphone portable
+mais ne l’avez pas validé, vérifiez-le et cliquez sur le bouton “Valider mon numéro de téléphone portable”. Vous recevrez alors un
+code à 6 chiffres par SMS que vous devrez reporter dans le champ
+prévu à cet effet.
+
+LA DÉCLARATION DE REVENUS
+Si vous n’avez pas encore renseigné un numéro de téléphone
+portable, saisissez-le puis enregistrez-le. En cliquant sur le bouton
+“Continuer” de la fenêtre vous informant que vos informations ont
+bien été prises en compte, vous recevrez un code à 6 chiffres par
+SMS que vous devrez reporter dans le champ prévu à cet effet.
+Par ailleurs, une fenêtre d’information peut vous être présentée
+périodiquement (6 mois) pour vous inviter à actualiser, le cas
+échéant, votre numéro de téléphone portable et votre adresse
+électronique.
+
+VOTRE DÉCLARATION DE REVENUS
+SUR IMPOTS.GOUV.FR
+La déclaration en ligne s’effectue d’avril à juin. Elle est pré-remplie
+des principaux revenus : salaires, pensions et retraites, allocations
+chômage, indemnités journalières de maladie, revenus de capitaux mobiliers, dont les montants ont été transmis à l’administration fiscale par les employeurs et les organismes sociaux. Il vous
+suffit de vérifier les montants affichés et, le cas échéant, de les
+modifier ou de les compléter des autres revenus et charges. La
+déclaration en ligne est également pré-remplie des prélèvements
+à la source déjà payés : retenue à la source opérée par les
+employeurs, caisses de retraite… durant l’année 2023 ou acomptes
+contemporains prélevés sur votre compte bancaire pour vos activités sans tiers collecteur.
+
+Les avantages de la déclaration en ligne
+
+– La déclaration en ligne s’adapte à toutes les situations. Votre
+situation familiale a changé (naissance, mariage, Pacs, divorce…),
+vous avez déménagé, vous avez des revenus complexes (revenus
+encaissés à l’étranger…) : dans tous les cas la déclaration en ligne
+répond à vos besoins.
+Si vous avez déjà signalé un changement de situation de famille
+(naissance, mariage,…) dans le service “Gérer mon prélèvement à
+la source”, celui-ci est automatiquement récupéré.
+– Afin de faciliter la saisie de votre déclaration, les données
+(montant des dépenses et identité des salariés) relatives aux
+dépenses engagées pour la garde d'enfants de moins de 6 ans et
+aux dépenses engagées pour l'emploi d'un salarié à domicile,
+déclarées via les dispositifs simplifiés PAJEmploi et CESU, sont
+présentées automatiquement.
+– Les informations littérales déclarées en ligne sont conservées et
+vous pouvez les reporter automatiquement d’une année sur l’autre
+sans avoir à les ressaisir.
+– La déclaration en ligne est plus simple. Seules les rubriques de
+la déclaration des revenus dont vous avez besoin, vous sont
+présentées.
+– Vous déclarez à votre rythme, toutes les données remplies et
+validées sont conservées et vous sont représentées lors de la
+connexion suivante.
+– Vous disposez d’un moteur de recherche des rubriques de la
+déclaration. Retrouvez immédiatement la rubrique recherchée à
+partir d’un mot clé ou du code d’une case.
+– Vous bénéficiez d’un module pour vous aider dans le calcul de
+vos frais réels.
+– Vous obtenez l’estimation immédiate du montant de votre
+impôt.
+
+– Vous ne transmettez aucune pièce justificative. Vous devez néanmoins les conserver pour répondre à une éventuelle demande de
+l’administration.
+– Vous bénéficiez de délais supplémentaires
+• départements 01 à 19 et non-résidents : jeudi 23 mai 2024 ;
+• départements 20 à 54 : jeudi 30 mai 2024 ;
+• départements 55 à 976 : jeudi 6 juin 2024.
+– En déclarant en ligne, vous bénéficiez immédiatement d'un avis
+(Avis de Situation Déclarative à l'Impôt sur le Revenu) que vous
+pouvez également retrouver dans votre espace particulier. Cet avis
+vous permet de justifier de vos revenus et de vos charges auprès
+des organismes tiers (banques, bailleurs, administrations …) qui
+peuvent en vérifier l'authenticité grâce au service de vérification
+des avis sur le site impots.gouv.fr. Cet avis n'est pas destiné au
+paiement de votre impôt sur le revenu.
+Après signature, vous aurez la possibilité d'accéder au service en
+ligne “Gérer mon prélèvement à la source” pour choisir, si vous le
+souhaitez, vos options pour le prélèvement à la source (individualisation du taux, trimestrialisation des acomptes pour l’année
+suivante…) ou actualiser votre taux en fonction de votre situation
+(modification récente de votre niveau de revenus notamment).
+– Un courriel de confirmation vous est adressé après validation de
+votre déclaration en ligne, et un accusé de réception est disponible dans la consultation de votre situation fiscale personnelle.
+– Vous pouvez corriger facilement. Si après avoir signé vous
+souhaitez rectifier votre déclaration, il vous suffit de corriger les
+informations saisies sur votre précédente déclaration et de signer
+de nouveau. Ces corrections doivent être faites dans la limite du
+délai de dépôt.
+Tout au long du parcours, afin de prévenir les éventuelles erreurs
+des déclarants, des contrôles illustrant le droit à l'erreur sont
+.
+matérialisés par le logo
+La présence d’un RIB est obligatoire. Le compte bancaire doit être
+domicilié dans la zone SEPA. Les coordonnées bancaires seront
+utilisées pour toute opération de prélèvement ou de remboursement liée à l'impôt sur le revenu. Vous pouvez modifier vos coordonnées bancaires lors de votre déclaration de revenus mais
+également tout au long de l’année sur le service en ligne “Gérer
+mon prélèvement à la source” sur impots.gouv.fr.
+
+Nouveautés 2024
+
+1 - Le service de la correction en ligne s’ouvre aux travailleurs
+indépendants. Ainsi, toutes les rubriques de la déclaration fusionnée sont désormais accessibles en correction en ligne selon les
+mêmes conditions que pour une déclaration primitive (cases
+éventuellement pré-cochées sur l’écran de sélection des rubriques,
+choix de l’usager concerné, apparition des codes DRI sur les écrans
+de la 2042C PRO, etc.).
+Si des données relevant de la déclaration fusionnée ont été signalées sur la déclaration primitive, elles peuvent être modifiées ou
+supprimées par l’usager. De la même façon, un usager peut déclarer des données sociales pour la première fois sur sa déclaration
+corrective.
+2 - Depuis la campagne précédente, la modification des coordonnées bancaires est sécurisée par la saisie d’un code à usage
+unique (One Time Password) reçu sur le téléphone mobile de
+l’usager.
+
+73
+
+En l’absence de numéro de téléphone connu pour l’usager (ou si le
+numéro n’est pas conforme aux critères attendus), la modification
+des coordonnées bancaires pouvait se faire sans saisie du code.
+Désormais, si la procédure par SMS ne peut aboutir, le code sera
+envoyé à l’adresse courriel de l’usager.
+3 - Afin d’inciter les usagers à signaler leur changement d’adresse,
+les parcours en ligne de la déclaration des revenus (procédure
+longue et procédure rapide) seront aménagés. En début de
+parcours, sur l’écran « État civil/Adresse » de la déclaration, l’usager devra obligatoirement signaler s’il a déménagé ou pas en
+2023 ou 2024, avant de poursuivre sa déclaration.
+Une nouveauté s’agissant de l'adresse des étudiants rattachés au
+foyer fiscal de leurs parents. À compter de la campagne 2024, la
+fiabilisation sera étendue aux étudiants mineurs déclarés à charge
+dans la déclaration des parents.
+Les usagers devront indiquer si la personne à charge a la qualité
+d’étudiant disposant d’un logement indépendant de celui de ses
+parents. Si oui, ils devront obligatoirement compléter l’adresse du
+logement étudiant. À défaut de saisie de l’adresse de l’étudiant,
+l’usager ne pourra pas poursuivre sa déclaration.
+Enfin, afin de rappeler aux propriétaires l’obligation de déclarer les
+changements de situation d’occupation de leurs biens, le parcours
+en fin de déclaration des revenus en ligne est aménagé en intégrant un questionnaire sur l’écran « Résumé ». Les usagers devront
+y répondre obligatoirement avant de signer leur déclaration des
+revenus. Les usagers propriétaires devront indiquer dans le questionnaire si des changements d’occupation de leurs biens ont eu
+lieu. Dans l’affirmative et s’ils n’ont pas encore déclaré le changement de situation, ils seront dirigés automatiquement vers l’application GMBI après signature de leur déclaration des revenus.
+La déclaration en ligne arrive sur l'application mobile impots.
+gouv
+À compter de la campagne 2024, un nouveau service vous permettra d'effectuer votre déclaration d'impôt sur l'application mobile
+impots.gouv.
+Ce service proposera un parcours déclaratif simplifié et intuitif en
+4 étapes (situation, revenus, charges, récapitulatif).
+Vous pourrez notamment modifier ou ajouter :
+- des personnes à charges (enfants mineurs ou majeurs) ;
+- certains revenus (traitements, salaires, pensions, rentes, revenus
+de capitaux mobiliers, micro-foncier) ou charges (pensions
+alimentaires, cotisations syndicales, étude et frais de garde des
+enfants, dons, aide aux personnes, etc.).
+
+Qui peut déclarer par Internet ?
+
+La quasi totalité des contribuables peut déclarer ses revenus en
+ligne 3.
+Vous avez déjà été assujetti personnellement
+à l’impôt sur le revenu
+Vous pouvez déclarer vos revenus en ligne, y compris si votre
+situation de famille a changé (naissance ou adoption, mariage,
+Pacs, divorce, décès du conjoint ou du partenaire de Pacs) ou si
+vous avez déménagé.
+3. Ce service peut ne pas être accessible dans quelques cas très marginaux :
+déclaration comportant des données numériques ou des charges de famille
+très importantes ou impliquant des modalités de calcul spécifiques ; pluralité
+d’événements la même année (mariage et divorce par exemple).
+
+74 – LA DÉCLARATION DE REVENUS
+
+En cas de mariage ou de Pacs, votre déclaration en ligne sera
+immédiatement pré-remplie des revenus des deux conjoints.
+Vous n’avez jamais été assujetti personnellement à l’impôt sur
+le revenu et vous êtes primo-déclarant
+– Si vous êtes âgé de 20 ans et plus et si vous étiez rattaché l’année
+dernière à la déclaration de revenus de vos parents, un courrier
+vous a été adressé par l’administration fiscale en avril avec vos
+identifiants pour vous permettre de déclarer en ligne. Si vous déclarez vos revenus en ligne, vous bénéficiez d'une déclaration préremplie.
+– Si vous avez moins de 20 ans, ou vous n'avez pas reçu le courrier
+délivrant vos identifiants, vous pouvez contacter votre centre des
+finances publiques ou le 0 809 401 401 (service gratuit + coût de
+l'appel) qui vous indiquera vos identifiants de connexion.
+
+Déclarez vos revenus
+
+Sous certaines conditions, les foyers fiscaux ayant déposé une déclaration de revenus 2022 peuvent être éligibles à la procédure de
+déclaration automatique. C’est le cas si vous avez été taxé au titre
+des revenus 2022 uniquement sur des types de revenus pré-remplis
+(traitements et salaires, pensions et rentes, revenus de capitaux
+mobiliers), que vous n'avez pas déclaré de changement de situation
+de famille (mariage, divorce…), et que vous n'avez pas signalé de
+changement d'adresse.
+Tous les contribuables éligibles à la déclaration automatique en sont
+informés explicitement par l’administration fiscale et accèdent à un
+document spécifique “déclaration automatique” dans leur espace
+particulier sur impots.gouv.fr à compter du début de la campagne
+déclarative.
+Les contribuables concernés doivent vérifier les informations préremplies relatives à la composition de leur foyer fiscal, leur adresse
+ainsi que leurs revenus et charges. Si les informations pré-remplies
+sont justes et exhaustives, ces contribuables peuvent se dispenser du
+dépôt de leur déclaration de revenus : leur impôt sera alors calculé
+sur la base des informations connues de l’administration fiscale.
+
+Le service Déclarer en ligne
+
+Sur ordinateur ou tablette, si vous avez une situation fiscale
+simple, vous serez automatiquement guidé vers la déclaration en
+ligne simplifiée. Sur l’écran de résumé de votre déclaration, assurez-vous de l’exactitude des mentions relatives à votre situation
+de famille, aux personnes à charge, à votre adresse et à vos revenus et retenues à la source pré-remplis. Vous devez saisir l'état
+civil complet de vos personnes à charge. De plus il est rappelé que
+le rattachement des enfants majeurs n’est pas reconduit automatiquement d’une année sur l’autre.
+Si vous avez des modifications ou compléments à apporter, laissez-vous guider :
+– vous indiquez si vous faites une déclaration avec ou sans changement de situation de famille (mariage, divorce, décès ou Pacs) ;
+– vous pouvez modifier votre adresse puis la composition de votre
+foyer fiscal (naissance d’un enfant, rattachement d’un enfant
+majeur, signalement d’une demi-part supplémentaire, etc.) ;
+– les rubriques avec vos revenus pré-remplis sont automatiquement
+affichées. En revanche, vous sélectionnez les autres rubriques qui
+vous concernent. Ensuite, vérifiez ou saisissez vos revenus et charges,
+et naviguez sur les différentes pages de votre déclaration personnalisée ;
+
+LA DÉCLARATION DE REVENUS
+– les informations littérales déclarées en ligne l’an dernier sont
+pré-affichées et il vous suffit de les confirmer ou de les corriger ;
+– ajoutez les formulaires annexes qui vous concernent (2044 , 2044
+Spéciale, 2047 …) ;
+– à l’issue de la saisie de vos déclarations de revenus annexes (par
+exemple vos revenus fonciers), le revenu correspondant est
+reporté automatiquement sur votre déclaration principale.
+À la fin de la saisie de la déclaration principale, vous visualisez un
+résumé de l’ensemble des rubriques saisies, le montant estimé du
+solde de votre impôt ou de votre restitution ainsi que votre
+nouveau taux de prélèvement à la source. En cas d’erreur ou d’oubli, un bouton “ Corriger ma déclaration” vous permet d’apporter
+toutes les modifications nécessaires.
+
+Le service Déclarer mes revenus de l'application
+mobile impots.gouv4
+
+La déclaration sur smartphone est limitée aux situations fiscales
+simples, n'impliquant pas de modifications de la situation matrimoniale ou la présence de déclarations annexes.
+Le service « Déclarer mes revenus » est accessible depuis la page
+d'accueil de l'application mobile.
+Les informations connues de l'administration sont automatiquement affichées ou préremplies le cas échéant.
+Sur la première page du parcours déclaratif, vous pourrez ajouter/
+modifier des personnes à charges (enfants mineurs ou majeurs),
+ou modifier/ajouter votre RIB.
+Sur les pages « Revenus » et « Charges », vous pourrez valider/
+modifier les montants connus de l'administration et ajouter
+d'autres revenus ou charges dans le périmètre de la déclaration
+mobile.
+La dernière page du parcours affiche un récapitulatif des rubriques
+saisies et une estimation de votre solde d'impôt ou de votre restitution. Vous pourrez alors signer votre déclaration et la corriger
+ultérieurement si nécessaire.
+
+VOTRE SITUATION FISCALE PERSONNELLE
+SUR IMPOTS.GOUV.FR
+Depuis votre espace particulier, vous pouvez consulter l’ensemble de
+votre situation fiscale en cliquant sur “Documents”. Vous y trouvez :
+– votre déclaration de revenus déposée en ligne en 2023 ainsi que
+ses annexes ;
+– vos précédentes déclarations de revenus (initiales et rectificatives,
+déposées en ligne ou sur papier) et vos avis d’impôt (impôt sur le
+revenu et prélèvements sociaux, IFI, taxe d’habitation principale et
+secondaire, taxes foncières).
+Vous pouvez également visualiser vos avis de taxe sur les logements
+vacants et de taxe d’habitation sur les logements vacants.
+Vous pouvez aussi consulter l’ensemble de vos paiements relatifs à
+ces impôts en cliquant sur “Paiements”.
+
+4. L'application mobile impots.gouv peut être téléchargée sur smartphone ou
+tablette via les stores Android (Google Play) ou Apple (App Store).
+
+75
+
+
